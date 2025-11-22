@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutoriales on TuTaller Blog</title>
-    <link>https://workshopcore.github.io/workshop_core_blog/categories/tutoriales/</link>
+    <link>http://localhost:36019/categories/tutoriales/</link>
     <description>Recent content in Tutoriales on TuTaller Blog</description>
     <generator>Hugo</generator>
     <language>es-AR</language>
     <lastBuildDate>Sat, 22 Nov 2025 19:58:00 -0300</lastBuildDate>
-    <atom:link href="https://workshopcore.github.io/workshop_core_blog/categories/tutoriales/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36019/categories/tutoriales/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Características Principales de TuTaller</title>
-      <link>https://workshopcore.github.io/workshop_core_blog/blog/posts/caracteristicas-principales/</link>
+      <link>http://localhost:36019/blog/posts/caracteristicas-principales/</link>
       <pubDate>Sat, 22 Nov 2025 19:58:00 -0300</pubDate>
-      <guid>https://workshopcore.github.io/workshop_core_blog/blog/posts/caracteristicas-principales/</guid>
+      <guid>http://localhost:36019/blog/posts/caracteristicas-principales/</guid>
       <description>&lt;h1 id=&#34;características-principales-de-tutaller&#34;&gt;Características Principales de TuTaller&lt;/h1&gt;&#xA;&lt;p&gt;TuTaller es una plataforma completa diseñada para facilitar la gestión de espacios de clases y talleres. Ya seas un instructor independiente o administres un centro educativo, TuTaller te brinda todas las herramientas necesarias para optimizar tu tiempo y mejorar la experiencia de tus alumnos.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-gestión-de-alumnos&#34;&gt;🎓 Gestión de Alumnos&lt;/h2&gt;&#xA;&lt;h3 id=&#34;perfiles-completos&#34;&gt;Perfiles Completos&lt;/h3&gt;&#xA;&lt;p&gt;Creá y administrá perfiles detallados de cada alumno con toda la información relevante:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Datos personales y de contacto&lt;/li&gt;&#xA;&lt;li&gt;Historial de asistencia&lt;/li&gt;&#xA;&lt;li&gt;Pagos realizados&lt;/li&gt;&#xA;&lt;li&gt;Notas y observaciones personalizadas&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;organización-por-grupos&#34;&gt;Organización por Grupos&lt;/h3&gt;&#xA;&lt;p&gt;Organizá a tus alumnos en diferentes grupos o clases para facilitar la gestión:&lt;/p&gt;</description>
     </item>
   </channel>
