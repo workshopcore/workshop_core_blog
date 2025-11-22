@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://workshopcore.github.io/workshop_core_blog/blog/</loc>
     <lastmod>2025-11-22T19:58:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/caracteristicas-principales/</loc>
+    <loc>https://workshopcore.github.io/workshop_core_blog/blog/posts/caracteristicas-principales/</loc>
     <lastmod>2025-11-22T19:58:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://workshopcore.github.io/workshop_core_blog/categories/</loc>
     <lastmod>2025-11-22T19:58:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/funcionalidades/</loc>
+    <loc>https://workshopcore.github.io/workshop_core_blog/tags/funcionalidades/</loc>
     <lastmod>2025-11-22T19:58:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gesti%C3%B3n/</loc>
+    <loc>https://workshopcore.github.io/workshop_core_blog/tags/gesti%C3%B3n/</loc>
     <lastmod>2025-11-22T19:58:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://workshopcore.github.io/workshop_core_blog/tags/</loc>
     <lastmod>2025-11-22T19:58:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://workshopcore.github.io/workshop_core_blog/</loc>
     <lastmod>2025-11-22T19:58:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/tutoriales/</loc>
+    <loc>https://workshopcore.github.io/workshop_core_blog/categories/tutoriales/</loc>
     <lastmod>2025-11-22T19:58:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tutoriales/</loc>
+    <loc>https://workshopcore.github.io/workshop_core_blog/tags/tutoriales/</loc>
     <lastmod>2025-11-22T19:58:00-03:00</lastmod>
   </url>
 </urlset>
