@@ -2,3 +2,7 @@ baseURL = 'https://blog.tutaller.com.ar/'
 languageCode = 'es-AR'
 title = 'TuTaller Blog'
 theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
