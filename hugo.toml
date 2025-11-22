@@ -1,7 +1,19 @@
 baseURL = 'https://blog.tutaller.com.ar/'
 languageCode = 'es-AR'
+defaultContentLanguage = "es"
+defaultContentLanguageInSubdir = false
 title = 'TuTaller Blog'
 theme = 'ananke'
+
+[params]
+  site_logo = '/images/logo_square.svg'
+  background_color_class = 'wc-bg-light'
+  featured_image_class = 'cover bg-center'
+  cover_dimming_class = 'bg-black-40'
+  custom_css = ['custom.css']
+  description = 'Blog oficial de TuTaller - Noticias, actualizaciones y tutoriales'
+  favicon = '/favicon.ico'
+  body_classes = 'wc-bg-light'
 
 [caches]
   [caches.images]

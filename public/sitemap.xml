@@ -2,14 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.tutaller.com.ar/blog/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-11-22T19:58:00-03:00</lastmod>
   </url><url>
-    <loc>https://blog.tutaller.com.ar/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+    <loc>http://localhost:1313/blog/posts/caracteristicas-principales/</loc>
+    <lastmod>2025-11-22T19:58:00-03:00</lastmod>
   </url><url>
-    <loc>https://blog.tutaller.com.ar/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-11-22T19:58:00-03:00</lastmod>
   </url><url>
-    <loc>https://blog.tutaller.com.ar/tags/</loc>
+    <loc>http://localhost:1313/tags/funcionalidades/</loc>
+    <lastmod>2025-11-22T19:58:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gesti%C3%B3n/</loc>
+    <lastmod>2025-11-22T19:58:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-11-22T19:58:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-11-22T19:58:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tutoriales/</loc>
+    <lastmod>2025-11-22T19:58:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tutoriales/</loc>
+    <lastmod>2025-11-22T19:58:00-03:00</lastmod>
   </url>
 </urlset>

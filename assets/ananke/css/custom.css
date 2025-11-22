@@ -1,0 +1,210 @@
+/* TuTaller Brand Customization - Light Theme */
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Mulish:wght@300;400;500;600;700&display=swap');
+
+/* TuTaller Brand Colors */
+:root {
+  --wc-primary: #06BEE1;
+  /* Turquoise - Primary accent */
+  --wc-secondary: #03256C;
+  /* Dark blue - Text/secondary */
+  --wc-bg-light: #FFFFFF;
+  /* White background */
+  --wc-bg-gray: #F8F9FA;
+  /* Light gray background */
+  --wc-text-dark: #2C3E50;
+  /* Dark text */
+  --wc-text-gray: #6C757D;
+  /* Gray text */
+}
+
+/* Global Styles */
+body {
+  font-family: 'Mulish', sans-serif !important;
+  background-color: var(--wc-bg-light) !important;
+  color: var(--wc-text-dark) !important;
+}
+
+/* Typography */
+.comfortaa-logo,
+.site-title,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  color: var(--wc-secondary);
+}
+
+/* Header - Light Theme */
+header {
+  background-color: var(--wc-bg-light) !important;
+  border-bottom: 1px solid #E9ECEF;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+/* Navigation - Light Theme */
+nav {
+  background-color: var(--wc-bg-light) !important;
+  padding: 1rem 1.5rem;
+}
+
+nav a {
+  color: var(--wc-text-dark) !important;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+nav a:hover {
+  color: var(--wc-primary) !important;
+}
+
+/* Site Title/Logo */
+.site-title {
+  font-weight: 800 !important;
+  color: var(--wc-primary) !important;
+  font-size: 1.5rem;
+}
+
+/* Links */
+a {
+  color: var(--wc-primary);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--wc-secondary);
+  text-decoration: underline;
+}
+
+/* Buttons */
+.btn-primary,
+button {
+  background-color: var(--wc-primary) !important;
+  color: white !important;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.375rem;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover,
+button:hover {
+  background-color: var(--wc-secondary) !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(6, 190, 225, 0.3);
+}
+
+/* Override Ananke Dark Theme */
+.bg-black,
+.bg-near-black,
+.black {
+  background-color: var(--wc-bg-light) !important;
+  color: var(--wc-text-dark) !important;
+}
+
+.white,
+.white-90,
+.white-80 {
+  color: var(--wc-text-dark) !important;
+}
+
+.light-silver {
+  color: var(--wc-secondary) !important;
+}
+
+/* Article/Post Styling */
+article {
+  background-color: var(--wc-bg-light);
+  color: var(--wc-text-dark);
+}
+
+.post-link {
+  color: var(--wc-secondary);
+}
+
+.post-link:hover {
+  color: var(--wc-primary) !important;
+}
+
+/* Content Areas */
+.content-area,
+main {
+  background-color: var(--wc-bg-light);
+  color: var(--wc-text-dark);
+}
+
+/* Footer */
+footer {
+  background-color: var(--wc-secondary) !important;
+  color: white !important;
+  padding: 2rem 0;
+}
+
+footer a {
+  color: var(--wc-primary) !important;
+}
+
+/* Form Elements */
+input,
+textarea,
+select {
+  border: 1px solid #DEE2E6;
+  border-radius: 0.375rem;
+  padding: 0.5rem 0.75rem;
+  color: var(--wc-text-dark);
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  border-color: var(--wc-primary);
+  outline: none;
+  box-shadow: 0 0 0 0.2rem rgba(6, 190, 225, 0.25);
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px white inset !important;
+  -webkit-text-fill-color: var(--wc-text-dark) !important;
+}
+
+/* Utility Classes */
+.wc-primary {
+  color: var(--wc-primary) !important;
+}
+
+.wc-secondary {
+  color: var(--wc-secondary) !important;
+}
+
+.wc-bg-primary {
+  background-color: var(--wc-primary) !important;
+}
+
+.wc-bg-secondary {
+  background-color: var(--wc-secondary) !important;
+}
+
+.wc-bg-light {
+  background-color: var(--wc-bg-light) !important;
+}
+
+/* Clean, minimal design tweaks */
+.nested-copy-line-height p,
+.nested-copy-line-height li {
+  line-height: 1.6;
+}
+
+blockquote {
+  border-left: 4px solid var(--wc-primary);
+  padding-left: 1rem;
+  color: var(--wc-text-gray);
+}
