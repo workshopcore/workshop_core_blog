@@ -1,4 +1,4 @@
-baseURL = 'https://blog.tutaller.com.ar/'
+baseURL = 'https://workshopcore.github.io/workshop_core_blog/'
 languageCode = 'es-AR'
 defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = false
