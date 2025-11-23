@@ -1,0 +1,100 @@
+{{ define "main" }}
+  <article class="cf ph2 pv3 pv4-l f4 mw8 center lh-copy nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
+    {{ .Content }}
+  </article>
+
+  {{/* Content Navigation Box */}}
+  <div class="content-nav-box mw8 center">
+    <h2 class="comfortaa-logo">Explorá el Contenido</h2>
+    <div class="nav-grid">
+      
+      {{/* Categories Card */}}
+      {{ if .Site.Taxonomies.categories }}
+      <div class="nav-card">
+        <span class="nav-icon">📚</span>
+        <h3>Categorías</h3>
+        <ul>
+          {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+            {{ with $.Site.GetPage (printf "/categories/%s" $name) }}
+            <li>
+              <a href="{{ .Permalink }}">
+                {{ $name | inflect.Humanize }} <span class="f6 gray">({{ len $taxonomy }})</span>
+              </a>
+            </li>
+            {{ end }}
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+      {{/* Tags Card */}}
+      {{ if .Site.Taxonomies.tags }}
+      <div class="nav-card">
+        <span class="nav-icon">🏷️</span>
+        <h3>Etiquetas</h3>
+        <ul>
+          {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+            {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+            <li>
+              <a href="{{ .Permalink }}">
+                {{ $name | inflect.Humanize }} <span class="f6 gray">({{ len $taxonomy }})</span>
+              </a>
+            </li>
+            {{ end }}
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+      {{/* All Posts Card */}}
+      <div class="nav-card">
+        <span class="nav-icon">📝</span>
+        <h3>Todos los Posts</h3>
+        <p class="f5 gray mb3">{{ len .Site.RegularPages }} artículos publicados</p>
+        {{ with .Site.GetPage "/blog" }}
+        <a href="{{ .Permalink }}" class="btn-primary" style="display: inline-block; padding: 0.75rem 1.5rem; background-color: var(--wc-primary); color: white; border-radius: 0.375rem; text-decoration: none; font-weight: 600;">
+          Ver todos →
+        </a>
+        {{ end }}
+      </div>
+
+    </div>
+  </div>
+
+  {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
+  {{ $mainSections := site.Params.mainSections | compare.Default (collections.Slice "post") }}
+  {{ $show_recent_posts := site.Params.ananke.show_recent_posts }}
+  {{ $section := collections.Where $.Site.RegularPages "Section" "in" $mainSections }}
+  {{ $section_count := len $section }}
+
+  {{ if and ($show_recent_posts) (compare.Ge $section_count 1) }}
+    <div class="ph2 w-100 center">
+      {{ $n_posts := $.Param "recent_posts_number" | compare.Default 3 }}
+
+      <section class="w-100 mw8 center">
+        <h2 class="f2 comfortaa-logo tc mb4" style="color: var(--wc-secondary);">Artículos Recientes</h2>
+        {{/* Range through the first $n_posts items of the section */}}
+        {{ range (collections.First $n_posts $section) }}
+          <div class="w-100 mb4 relative">
+            {{ .Render "summary-with-image" }}
+          </div>
+        {{ end }}
+      </section>
+
+      {{ if compare.Ge $section_count (math.Add $n_posts 1) }}
+        <section class="w-100 mw8 center">
+          <h1 class="f3">{{ lang.Translate "more" }}</h1>
+          {{/* Now, range through the next four after the initial $n_posts items. Nest the requirements, "after" then "first" on the outside */}}
+          {{ range (collections.First 4 (collections.After $n_posts $section))  }}
+            <h2 class="f5 fw4 mb4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "ml3" "mr3" }}">
+              <a href="{{ .RelPermalink }}" class="link black dim">
+                {{ .Title }}
+              </a>
+            </h2>
+          {{ end }}
+        </section>
+      {{ end }}
+
+    </div>
+  {{ end }}
+{{ end }}

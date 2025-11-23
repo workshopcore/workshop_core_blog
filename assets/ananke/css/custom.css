@@ -208,3 +208,206 @@ blockquote {
   padding-left: 1rem;
   color: var(--wc-text-gray);
 }
+
+/* Override all Tachyons font utility classes */
+.sans-serif,
+.serif,
+.system-sans-serif,
+.system-serif,
+.helvetica,
+.avenir,
+.athelas,
+.georgia,
+.times,
+.bodoni,
+.calisto,
+.garamond,
+.baskerville {
+  font-family: 'Mulish', sans-serif !important;
+}
+
+/* Code and monospace should remain monospace */
+.code,
+code,
+.courier,
+pre,
+kbd,
+samp {
+  font-family: Consolas, monaco, monospace !important;
+}
+
+/* Ensure all common elements use Mulish */
+p,
+li,
+span,
+div,
+a,
+label,
+input,
+textarea,
+select,
+button,
+article,
+section,
+aside,
+nav,
+footer {
+  font-family: 'Mulish', sans-serif !important;
+}
+
+/* Reaffirm headings and logo use Comfortaa */
+.comfortaa-logo,
+.site-title,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.athelas
+
+/* Override any heading with athelas class */
+  {
+  font-family: "Comfortaa", sans-serif !important;
+  font-optical-sizing: auto;
+}
+
+/* Ensure no element can override via inline styles or other means */
+* {
+  font-family: inherit;
+}
+
+html {
+  font-family: 'Mulish', sans-serif !important;
+}
+
+/* Widen content containers for better use of space */
+.measure {
+  max-width: 45em !important;
+  /* was 30em */
+}
+
+.measure-wide {
+  max-width: 55em !important;
+  /* was 34em */
+}
+
+.measure-wide-l {
+  max-width: 55em !important;
+  /* was 34em on large screens */
+}
+
+/* Widen the main content area on large screens */
+.mw7 {
+  max-width: 55rem !important;
+  /* was 48rem */
+}
+
+.mw8 {
+  max-width: 70rem !important;
+  /* was 64rem */
+}
+
+/* Make home page posts container wider */
+.w-70-ns {
+  width: 85% !important;
+  /* was 70% */
+}
+
+/* Content navigation box styling */
+.content-nav-box {
+  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+  border: 2px solid var(--wc-primary);
+  border-radius: 12px;
+  padding: 2rem;
+  margin: 2rem auto;
+  box-shadow: 0 4px 12px rgba(6, 190, 225, 0.1);
+  transition: all 0.3s ease;
+}
+
+.content-nav-box:hover {
+  box-shadow: 0 6px 20px rgba(6, 190, 225, 0.2);
+  transform: translateY(-2px);
+}
+
+.content-nav-box h2 {
+  color: var(--wc-primary);
+  margin-bottom: 1.5rem;
+  font-size: 1.75rem;
+  text-align: center;
+}
+
+.nav-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+}
+
+.nav-card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: 1px solid #e9ecef;
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.nav-card:hover {
+  border-color: var(--wc-primary);
+  box-shadow: 0 4px 8px rgba(6, 190, 225, 0.15);
+  transform: translateY(-3px);
+}
+
+.nav-card h3 {
+  color: var(--wc-secondary);
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.nav-card ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-card li {
+  margin: 0.5rem 0;
+}
+
+.nav-card a {
+  color: var(--wc-text-dark);
+  text-decoration: none;
+  transition: color 0.3s ease;
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+}
+
+.nav-card a:hover {
+  color: var(--wc-primary);
+  background-color: rgba(6, 190, 225, 0.1);
+  text-decoration: none;
+}
+
+.nav-icon {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+/* Widen blog post single pages */
+.w-two-thirds-l {
+  width: 75% !important;
+  /* was 66.67% */
+}
+
+/* Ensure post articles use wider container */
+article.mw8 {
+  max-width: 70rem !important;
+}
+
+/* Remove shadow/border from post headers for cleaner UI */
+article header {
+  box-shadow: none !important;
+  border: none !important;
+}
