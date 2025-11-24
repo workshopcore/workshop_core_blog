@@ -181,42 +181,6 @@ Tiempo de recuperación: imediato (mes 1)
 *Valor de tu tiempo como dueño/instructor
 ```
 
-## Casos de Éxito Reales
-
-### Caso 1: Yoga Studio "Namaste"
-
-**Antes de digitalizar**:
-- 25 alumnos regulares
-- Gestión manual con agenda física
-- 3-4 horas diarias en admin
-- Ocupación promedio: 55%
-
-**Después de digitalizar (6 meses)**:
-- 62 alumnos regulares (+148%)
-- Sistema automatizado
-- 30 minutos diarios en admin (-87% tiempo)
-- Ocupación promedio: 78% (+23 puntos)
-
-**Testimonio**: "No puedo creer que hayamos operado tanto tiempo sin esto. Es como tener una asistente trabajando 24/7, pero que nunca se equivoca."
-
-### Caso 2: Gimnasio Funcional "FitZone"
-
-**Problema inicial**:
-- Alto ausentismo (35%)
-- Conflictos por créditos mal registrados
-- Dificultad para escalar más allá de 40 alumnos
-
-**Solución digital**:
-- Recordatorios automáticos
-- Sistema transparente de créditos
-- Capacidad para 150+ alumnos
-
-**Resultados a 1 año**:
-- Ausentismo reducido a 18%
-- Cero conflictos por créditos
-- 118 alumnos activos
-- NPS (satisfacción): 72 puntos
-
 ## Pasos para Digital izar tu Taller
 
 ### 1. Evaluación (Semana 1)
