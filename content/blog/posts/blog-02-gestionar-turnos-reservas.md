@@ -363,8 +363,7 @@ Para gestión de turnos efectiva necesitás:
 ---
 
 **Recursos**:
-- 🎯 [Prueba TuTaller gratis por 30 días](https://tutaller.com.ar/prueba)
-- 📘 [Descarga plantilla de política de cancelación](https://tutaller.com.ar/recursos)
-- 💬 [Comunidad de gestores de talleres](https://tutaller.com.ar/comunidad)
+- 🎯 [Prueba TuTaller gratis por 30 días](https://tutaller.com.ar/home/create)
+- 💬 [Comunidad de gestores de talleres](https://www.instagram.com/tutallerapp/)
 
 **Keywords**: gestión de turnos, sistema de reservas, reservas online, software reservas clases, gestionar turnos taller, calendario reservas Argentina
