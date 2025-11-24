@@ -82,7 +82,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://workshopcore.github.io/" \
+            --baseURL "https://blog.tutaller.com.ar/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
       - name: Cache save
         id: cache-save
