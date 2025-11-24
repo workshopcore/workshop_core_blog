@@ -3,8 +3,8 @@ title: "Características Principales de TuTaller"
 date: 2025-11-22T19:58:00-03:00
 draft: false
 description: "Descubrí todas las funcionalidades que TuTaller ofrece para gestionar tu espacio de clases y talleres de forma eficiente."
-tags: ["funcionalidades", "gestión", "tutoriales"]
-categories: ["Tutoriales"]
+tags: ["recursos", "funcionalidades"]
+categories: ["Información"]
 ---
 
 # Características Principales de TuTaller
@@ -14,93 +14,64 @@ TuTaller es una plataforma completa diseñada para facilitar la gestión de espa
 ## 🎓 Gestión de Alumnos
 
 ### Perfiles Completos
-Creá y administrá perfiles detallados de cada alumno con toda la información relevante:
+Creá y administrá perfiles de cada alumno con toda la información relevante:
 - Datos personales y de contacto
 - Historial de asistencia
-- Pagos realizados
-- Notas y observaciones personalizadas
-
-### Organización por Grupos
-Organizá a tus alumnos en diferentes grupos o clases para facilitar la gestión:
-- Creá grupos personalizados según nivel, actividad o edad
-- Asigná alumnos a múltiples grupos simultáneamente
-- Visualizá rápidamente la composición de cada grupo
+- Créditos disponibles
+- Estado de suscripción
 
 ## 📅 Sistema de Reservas
 
 ### Calendario Inteligente
 Gestioná todas tus clases desde un calendario visual e intuitivo:
-- Vista mensual, semanal o diaria
-- Creación rápida de clases y eventos
-- Código de colores para diferentes tipos de actividades
-- Sincronización en tiempo real
+- Vista de todas las clases programadas
+- Creación rápida de clases recurrentes y eventos únicos
+- Visualización de ocupación en tiempo real
 
 ### Reservas Online
 Tus alumnos pueden reservar sus clases directamente desde la plataforma:
 - Sistema de reservas 24/7
-- Confirmación automática
-- Límite de cupos por clase
-- Lista de espera automática cuando se completan las vacantes
+- Confirmación inmediata
+- Límite de cupos por clase para evitar sobrecupos
 
 ### Gestión de Cancelaciones
 Administrá las cancelaciones de forma eficiente:
-- Sistema de créditos para recuperar clases
-- Políticas de cancelación configurables
-- Notificaciones automáticas
-- Reprogramación simplificada
+- Sistema de créditos que se devuelven automáticamente si se cancela a tiempo
+- Liberación inmediata del cupo para otros alumnos
 
-## 💳 Control de Pagos
+## 💳 Control de Pagos y Créditos
 
-### Seguimiento Financiero
-Mantené un control preciso de todos los pagos:
-- Registro de pagos mensuales
-- Historial completo por alumno
-- Estados de pago (al día, adeuda, etc.)
-- Reportes financieros detallados
+### Modelo de Suscripción
+Configurá tu modelo de negocio fácilmente:
+- Definí el precio de tu suscripción mensual
+- Establecé cuántos créditos incluye cada plan
+- El sistema renueva los créditos automáticamente
 
-### Múltiples Métodos de Pago
-Registrá pagos realizados por diferentes medios:
-- Efectivo
-- Transferencia bancaria
-- Tarjeta de crédito/débito
-- Mercado Pago u otros procesadores
-
-### Facturación
-Generá comprobantes y llevá un registro ordenado:
-- Recibos automáticos
-- Exportación de datos para contabilidad
-- Informes mensuales
+### Seguimiento de Créditos
+Mantené un control preciso:
+- Asignación manual de créditos extra
+- Historial de consumo de créditos por alumno
+- Visualización clara de quiénes están al día
 
 ## 🔔 Comunicación y Notificaciones
 
 ### Notificaciones Automáticas
-Mantené informados a tus alumnos sin esfuerzo:
-- Recordatorios de clases próximas
+Mantené informados a tus alumnos sin esfuerzo a través de correos electrónicos automáticos:
 - Confirmación de reservas
 - Avisos de cancelaciones
-- Recordatorios de pago
+- Recuperación de contraseña
 
-### Mensajería Integrada
-Comunicáte directamente con tus alumnos:
-- Mensajes individuales o grupales
-- Anuncios generales
-- Notificaciones por email y/o SMS
+### Comunicación Directa
+- Envíá Notificaciones por email a tus alumnos desde el panel de administración.
 
 ## 📊 Reportes y Estadísticas
 
-### Análisis de Asistencia
-Obtené información valiosa sobre la participación:
-- Tasa de asistencia por alumno
-- Clases más populares
-- Tendencias de asistencia
-- Identificación de alumnos inactivos
-
-### Informes Financieros
-Visualizá el estado de tu negocio:
-- Ingresos mensuales
-- Proyecciones
-- Deudas pendientes
-- Evolución histórica
+### Dashboard de Métricas
+Obtené información valiosa sobre la salud de tu negocio:
+- Cantidad de reservas totales
+- Usuarios activos
+- Ocupación promedio de tus clases
+- Créditos consumidos
 
 ## 🌐 Acceso desde Cualquier Dispositivo
 
@@ -110,11 +81,8 @@ TuTaller es una aplicación web progresiva (PWA) que funciona en:
 - Smartphones
 - Todos los navegadores modernos
 
-### Sin Instalación
-No necesitás descargar ni instalar nada. Simplemente accedé desde tu navegador y empezá a gestionar tu taller.
-
-### Funciona Offline
-Algunas funcionalidades están disponibles incluso sin conexión a internet, sincronizándose automáticamente cuando volvés a estar online.
+### Sin Instalación Compleja
+Tus alumnos pueden "instalar" la app en su pantalla de inicio directamente desde el navegador, sin ocupar espacio innecesario en su teléfono.
 
 ## 🔒 Seguridad y Privacidad
 
@@ -122,20 +90,14 @@ Algunas funcionalidades están disponibles incluso sin conexión a internet, sin
 Tus datos y los de tus alumnos están seguros:
 - Cifrado de extremo a extremo
 - Backups automáticos
-- Cumplimiento de normativas de protección de datos
+- Acceso seguro con credenciales encriptadas
 
 ### Control de Acceso
-Gestioná quién puede ver y modificar información:
-- Roles y permisos personalizables
-- Acceso restringido por funcionalidad
-- Registro de actividad
+- Roles diferenciados para Administradores y Alumnos
+- Cada usuario accede solo a su propia información
 
 ## 🚀 Empezá Hoy
 
 TuTaller está diseñado para que puedas crear tu espacio online en minutos. Con una interfaz intuitiva y soporte en español, vas a poder concentrarte en lo que realmente importa: enseñar y hacer crecer tu taller.
 
-¿Querés saber más? [Visitá nuestra página principal](https://tutaller.com.ar) o [contactanos](mailto:info@tutaller.com.ar) para una demostración personalizada.
-
----
-
-*¿Te resultó útil este artículo? Seguí nuestro blog para más tutoriales y novedades sobre TuTaller.*
+¿Querés saber más? [Visitá nuestra página principal](https://tutaller.com.ar) o contactanos para una demostración.

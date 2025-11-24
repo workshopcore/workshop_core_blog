@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notificaciones on TuTaller Blog</title>
+    <link>http://localhost:39601/workshop_core_blog/tags/notificaciones/</link>
+    <description>Recent content in Notificaciones on TuTaller Blog</description>
+    <generator>Hugo</generator>
+    <language>es-AR</language>
+    <lastBuildDate>Sat, 01 Feb 2025 10:00:00 -0300</lastBuildDate>
+    <atom:link href="http://localhost:39601/workshop_core_blog/tags/notificaciones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial 14: Gestionar Notificaciones (Alumno)</title>
+      <link>http://localhost:39601/workshop_core_blog/blog/posts/tutorial-14-notificaciones-alumnos/</link>
+      <pubDate>Sat, 01 Feb 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/blog/posts/tutorial-14-notificaciones-alumnos/</guid>
+      <description>&lt;h1 id=&#34;tutorial-14-gestionar-notificaciones&#34;&gt;Tutorial 14: Gestionar Notificaciones&lt;/h1&gt;&#xA;&lt;p&gt;La comunicación fluida es clave. En TuTaller, los alumnos reciben notificaciones importantes sobre:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Confirmaciones de reserva.&lt;/li&gt;&#xA;&lt;li&gt;Cancelaciones de clases.&lt;/li&gt;&#xA;&lt;li&gt;Recordatorios de vencimiento de créditos.&lt;/li&gt;&#xA;&lt;li&gt;Mensajes directos tuyos (como vimos en el Tutorial 8).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;el-centro-de-notificaciones&#34;&gt;El Centro de Notificaciones&lt;/h2&gt;&#xA;&lt;p&gt;Los alumnos pueden acceder a sus mensajes haciendo clic en el ícono de la &lt;strong&gt;campana&lt;/strong&gt; o en la sección &lt;strong&gt;&amp;ldquo;Notificaciones&amp;rdquo;&lt;/strong&gt; del menú.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:39601/workshop_core_blog/images/tutoriales/tutorial_14_notificaciones_alumno.png&#34; alt=&#34;Centro de Notificaciones del Alumno&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;funcionalidades&#34;&gt;Funcionalidades:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Leer&lt;/strong&gt;: Al hacer clic en una notificación, se expande para mostrar el mensaje completo.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Marcar como leída&lt;/strong&gt;: Una vez leída, pueden archivarla para mantener su bandeja limpia.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Estado&lt;/strong&gt;: Las notificaciones no leídas suelen destacarse para llamar la atención.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Enseñarles a tus alumnos a revisar esta sección te asegura que no se pierdan ninguna novedad importante de tu espacio.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tutorial 8: Enviar Notificaciones a tus Alumnos</title>
+      <link>http://localhost:39601/workshop_core_blog/blog/posts/tutorial-08-enviar-notificaciones/</link>
+      <pubDate>Sun, 20 Oct 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/blog/posts/tutorial-08-enviar-notificaciones/</guid>
+      <description>&lt;h1 id=&#34;tutorial-8-enviar-notificaciones-a-tus-alumnos&#34;&gt;Tutorial 8: Enviar Notificaciones a tus Alumnos&lt;/h1&gt;&#xA;&lt;p&gt;Mantener una comunicación fluida con tus alumnos es fundamental para el éxito de tu taller. TuTaller incluye un sistema de notificaciones que te permite enviar mensajes directamente a tus alumnos dentro de la plataforma, asegurándote de que reciban información importante de manera inmediata.&lt;/p&gt;&#xA;&lt;h2 id=&#34;accediendo-al-sistema-de-notificaciones&#34;&gt;Accediendo al Sistema de Notificaciones&lt;/h2&gt;&#xA;&lt;p&gt;Desde el panel de administración, hacé clic en &lt;strong&gt;&amp;ldquo;Enviar notificación&amp;rdquo;&lt;/strong&gt; en el menú lateral izquierdo. Se abrirá un formulario simple y directo donde podés componer tu mensaje.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

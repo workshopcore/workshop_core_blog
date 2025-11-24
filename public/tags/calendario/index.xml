@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calendario on TuTaller Blog</title>
+    <link>http://localhost:39601/workshop_core_blog/tags/calendario/</link>
+    <description>Recent content in Calendario on TuTaller Blog</description>
+    <generator>Hugo</generator>
+    <language>es-AR</language>
+    <lastBuildDate>Sat, 20 Jul 2024 10:00:00 -0300</lastBuildDate>
+    <atom:link href="http://localhost:39601/workshop_core_blog/tags/calendario/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial 5: Visualizando Turnos y Reservas</title>
+      <link>http://localhost:39601/workshop_core_blog/blog/posts/tutorial-05-turnos-reservados/</link>
+      <pubDate>Sat, 20 Jul 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/blog/posts/tutorial-05-turnos-reservados/</guid>
+      <description>&lt;h1 id=&#34;tutorial-5-visualizando-turnos-y-reservas&#34;&gt;Tutorial 5: Visualizando Turnos y Reservas&lt;/h1&gt;&#xA;&lt;p&gt;La sección de &lt;strong&gt;&amp;ldquo;Turnos reservados&amp;rdquo;&lt;/strong&gt; es tu herramienta diaria para ver qué está pasando en tu taller. Acá convergen todas las clases que creaste (recurrentes y no recurrentes) en una vista de calendario unificada.&lt;/p&gt;&#xA;&lt;h2 id=&#34;el-calendario-de-clases&#34;&gt;El Calendario de Clases&lt;/h2&gt;&#xA;&lt;p&gt;Al ingresar, vas a ver una grilla con todas tus actividades programadas. Podés navegar por semanas para ver la programación futura o revisar qué pasó en semanas anteriores.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

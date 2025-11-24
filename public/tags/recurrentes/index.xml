@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recurrentes on TuTaller Blog</title>
+    <link>http://localhost:39601/workshop_core_blog/tags/recurrentes/</link>
+    <description>Recent content in Recurrentes on TuTaller Blog</description>
+    <generator>Hugo</generator>
+    <language>es-AR</language>
+    <lastBuildDate>Fri, 10 May 2024 10:00:00 -0300</lastBuildDate>
+    <atom:link href="http://localhost:39601/workshop_core_blog/tags/recurrentes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial 3: Creando Tus Primeras Clases Recurrentes</title>
+      <link>http://localhost:39601/workshop_core_blog/blog/posts/tutorial-03-clases-recurrentes/</link>
+      <pubDate>Fri, 10 May 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/blog/posts/tutorial-03-clases-recurrentes/</guid>
+      <description>&lt;h1 id=&#34;tutorial-3-creando-tus-primeras-clases-recurrentes&#34;&gt;Tutorial 3: Creando Tus Primeras Clases Recurrentes&lt;/h1&gt;&#xA;&lt;p&gt;Las clases recurrentes son la base de tu programación. Son esas actividades que se repiten semana a semana en el mismo horario, como &amp;ldquo;Yoga Martes y Jueves 19hs&amp;rdquo;. El sistema de TuTaller te permite configurarlas una sola vez y se encarga de generar automáticamente los turnos en el calendario para siempre.&lt;/p&gt;&#xA;&lt;h2 id=&#34;accediendo-a-recurrentes&#34;&gt;Accediendo a Recurrentes&lt;/h2&gt;&#xA;&lt;p&gt;Hacé clic en &lt;strong&gt;&amp;ldquo;Recurrentes&amp;rdquo;&lt;/strong&gt; en el menú lateral. Acá vas a ver el listado de todas las clases fijas que ya creaste. Si es tu primera vez, la lista estará vacía.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

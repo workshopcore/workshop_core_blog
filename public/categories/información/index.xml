@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Información on TuTaller Blog</title>
+    <link>http://localhost:39601/workshop_core_blog/categories/informaci%C3%B3n/</link>
+    <description>Recent content in Información on TuTaller Blog</description>
+    <generator>Hugo</generator>
+    <language>es-AR</language>
+    <lastBuildDate>Sat, 22 Nov 2025 19:58:00 -0300</lastBuildDate>
+    <atom:link href="http://localhost:39601/workshop_core_blog/categories/informaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Características Principales de TuTaller</title>
+      <link>http://localhost:39601/workshop_core_blog/blog/posts/caracteristicas-principales/</link>
+      <pubDate>Sat, 22 Nov 2025 19:58:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/blog/posts/caracteristicas-principales/</guid>
+      <description>&lt;h1 id=&#34;características-principales-de-tutaller&#34;&gt;Características Principales de TuTaller&lt;/h1&gt;&#xA;&lt;p&gt;TuTaller es una plataforma completa diseñada para facilitar la gestión de espacios de clases y talleres. Ya seas un instructor independiente o administres un centro educativo, TuTaller te brinda todas las herramientas necesarias para optimizar tu tiempo y mejorar la experiencia de tus alumnos.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-gestión-de-alumnos&#34;&gt;🎓 Gestión de Alumnos&lt;/h2&gt;&#xA;&lt;h3 id=&#34;perfiles-completos&#34;&gt;Perfiles Completos&lt;/h3&gt;&#xA;&lt;p&gt;Creá y administrá perfiles de cada alumno con toda la información relevante:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Datos personales y de contacto&lt;/li&gt;&#xA;&lt;li&gt;Historial de asistencia&lt;/li&gt;&#xA;&lt;li&gt;Créditos disponibles&lt;/li&gt;&#xA;&lt;li&gt;Estado de suscripción&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-sistema-de-reservas&#34;&gt;📅 Sistema de Reservas&lt;/h2&gt;&#xA;&lt;h3 id=&#34;calendario-inteligente&#34;&gt;Calendario Inteligente&lt;/h3&gt;&#xA;&lt;p&gt;Gestioná todas tus clases desde un calendario visual e intuitivo:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Registro on TuTaller Blog</title>
+    <link>http://localhost:39601/workshop_core_blog/tags/registro/</link>
+    <description>Recent content in Registro on TuTaller Blog</description>
+    <generator>Hugo</generator>
+    <language>es-AR</language>
+    <lastBuildDate>Fri, 10 Jan 2025 10:00:00 -0300</lastBuildDate>
+    <atom:link href="http://localhost:39601/workshop_core_blog/tags/registro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial 10: Proceso de Registro del Alumno</title>
+      <link>http://localhost:39601/workshop_core_blog/blog/posts/tutorial-10-registro-alumnos/</link>
+      <pubDate>Fri, 10 Jan 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/blog/posts/tutorial-10-registro-alumnos/</guid>
+      <description>&lt;h1 id=&#34;tutorial-10-proceso-de-registro-del-alumno&#34;&gt;Tutorial 10: Proceso de Registro del Alumno&lt;/h1&gt;&#xA;&lt;p&gt;Hasta ahora vimos todo desde tu lado (el administrador). Ahora vamos a ver cómo es la experiencia para tus alumnos. Todo empieza con el registro.&lt;/p&gt;&#xA;&lt;h2 id=&#34;la-pantalla-de-bienvenida&#34;&gt;La Pantalla de Bienvenida&lt;/h2&gt;&#xA;&lt;p&gt;Cuando tus alumnos ingresan a la URL de tu espacio (ej: &lt;code&gt;tutaller.com.ar/app/tuespacio&lt;/code&gt;), se encuentran con la pantalla de inicio de sesión.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:39601/workshop_core_blog/images/tutoriales/tutorial_10_registro.png&#34; alt=&#34;Pantalla de Login&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;creando-una-cuenta&#34;&gt;Creando una Cuenta&lt;/h2&gt;&#xA;&lt;p&gt;Si es la primera vez que ingresan, deben hacer clic en &lt;strong&gt;&amp;ldquo;Registrarse&amp;rdquo;&lt;/strong&gt; (o &amp;ldquo;Crear cuenta&amp;rdquo;). El formulario les pedirá:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

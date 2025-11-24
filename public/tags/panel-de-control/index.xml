@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Panel De Control on TuTaller Blog</title>
+    <link>http://localhost:1313/workshop_core_blog/tags/panel-de-control/</link>
+    <description>Recent content in Panel De Control on TuTaller Blog</description>
+    <generator>Hugo</generator>
+    <language>es-AR</language>
+    <lastBuildDate>Fri, 15 Mar 2024 10:00:00 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/workshop_core_blog/tags/panel-de-control/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial 1: Introducción a TuTaller - Panel de Administración</title>
+      <link>http://localhost:1313/workshop_core_blog/blog/posts/tutorial-01-introduccion-tutaller/</link>
+      <pubDate>Fri, 15 Mar 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/workshop_core_blog/blog/posts/tutorial-01-introduccion-tutaller/</guid>
+      <description>&lt;h1 id=&#34;tutorial-1-introducción-a-tutaller---panel-de-administración&#34;&gt;Tutorial 1: Introducción a TuTaller - Panel de Administración&lt;/h1&gt;&#xA;&lt;p&gt;¡Bienvenido a TuTaller! En este primer tutorial, vamos a recorrer el panel de administración y conocer todas las herramientas que tenés disponibles para gestionar tu espacio de clases de forma eficiente.&lt;/p&gt;&#xA;&lt;h2 id=&#34;qué-es-tutaller&#34;&gt;¿Qué es TuTaller?&lt;/h2&gt;&#xA;&lt;p&gt;TuTaller es una plataforma completa diseñada para facilitar la gestión de espacios de clases, talleres y actividades. Te permite administrar turnos, usuarios, créditos, enviar notificaciones y mucho más, todo desde una interfaz intuitiva y fácil de usar.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

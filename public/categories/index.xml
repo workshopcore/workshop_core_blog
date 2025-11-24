@@ -2,17 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on TuTaller Blog</title>
-    <link>http://localhost:45415/workshop_core_blog/categories/</link>
+    <link>http://localhost:39601/workshop_core_blog/categories/</link>
     <description>Recent content in Categories on TuTaller Blog</description>
     <generator>Hugo</generator>
     <language>es-AR</language>
     <lastBuildDate>Sat, 22 Nov 2025 19:58:00 -0300</lastBuildDate>
-    <atom:link href="http://localhost:45415/workshop_core_blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:39601/workshop_core_blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Información</title>
+      <link>http://localhost:39601/workshop_core_blog/categories/informaci%C3%B3n/</link>
+      <pubDate>Sat, 22 Nov 2025 19:58:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/categories/informaci%C3%B3n/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Tutoriales</title>
-      <link>http://localhost:45415/workshop_core_blog/categories/tutoriales/</link>
-      <pubDate>Sat, 22 Nov 2025 19:58:00 -0300</pubDate>
-      <guid>http://localhost:45415/workshop_core_blog/categories/tutoriales/</guid>
+      <link>http://localhost:39601/workshop_core_blog/categories/tutoriales/</link>
+      <pubDate>Sat, 22 Feb 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/categories/tutoriales/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Insights</title>
+      <link>http://localhost:39601/workshop_core_blog/categories/insights/</link>
+      <pubDate>Fri, 20 Sep 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/categories/insights/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>http://localhost:39601/workshop_core_blog/categories/tips/</link>
+      <pubDate>Thu, 15 Aug 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/categories/tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:39601/workshop_core_blog/categories/blog/</link>
+      <pubDate>Sat, 20 Apr 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/categories/blog/</guid>
       <description></description>
     </item>
   </channel>

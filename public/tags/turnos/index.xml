@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turnos on TuTaller Blog</title>
+    <link>http://localhost:1313/workshop_core_blog/tags/turnos/</link>
+    <description>Recent content in Turnos on TuTaller Blog</description>
+    <generator>Hugo</generator>
+    <language>es-AR</language>
+    <lastBuildDate>Thu, 18 Jul 2024 10:00:00 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/workshop_core_blog/tags/turnos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial 5: Visualizar y Gestionar Turnos Reservados</title>
+      <link>http://localhost:1313/workshop_core_blog/blog/posts/tutorial-05-turnos-reservados/</link>
+      <pubDate>Thu, 18 Jul 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/workshop_core_blog/blog/posts/tutorial-05-turnos-reservados/</guid>
+      <description>&lt;h1 id=&#34;tutorial-5-visualizar-y-gestionar-turnos-reservados&#34;&gt;Tutorial 5: Visualizar y Gestionar Turnos Reservados&lt;/h1&gt;&#xA;&lt;p&gt;El calendario de turnos reservados es tu herramienta central para monitorear la actividad de tu espacio. Acá podés ver qué clases tienen reservas, cuántos alumnos confirmaron y planificar tus recursos.&lt;/p&gt;&#xA;&lt;h2 id=&#34;accediendo-al-calendario&#34;&gt;Accediendo al Calendario&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Hacé clic en &lt;strong&gt;&amp;ldquo;Turnos reservados&amp;rdquo;&lt;/strong&gt; en el panel lateral&lt;/li&gt;&#xA;&lt;li&gt;Se abrirá la vista de calendario con todas las reservas&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/workshop_core_blog/images/tutoriales/tutorial_09_turnos_calendario_1763920220276.png&#34; alt=&#34;Calendario de Turnos Reservados&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;navegación-del-calendario&#34;&gt;Navegación del Calendario&lt;/h2&gt;&#xA;&lt;h3 id=&#34;vista-por-mes&#34;&gt;Vista por Mes&lt;/h3&gt;&#xA;&lt;p&gt;El calendario muestra:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

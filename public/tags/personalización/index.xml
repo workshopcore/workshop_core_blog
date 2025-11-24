@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personalización on TuTaller Blog</title>
+    <link>http://localhost:1313/workshop_core_blog/tags/personalizaci%C3%B3n/</link>
+    <description>Recent content in Personalización on TuTaller Blog</description>
+    <generator>Hugo</generator>
+    <language>es-AR</language>
+    <lastBuildDate>Fri, 12 Apr 2024 10:00:00 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/workshop_core_blog/tags/personalizaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial 2: Configuración Inicial de tu Espacio en TuTaller</title>
+      <link>http://localhost:1313/workshop_core_blog/blog/posts/tutorial-02-configuracion-inicial/</link>
+      <pubDate>Fri, 12 Apr 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/workshop_core_blog/blog/posts/tutorial-02-configuracion-inicial/</guid>
+      <description>&lt;h1 id=&#34;tutorial-2-configuración-inicial-de-tu-espacio-en-tutaller&#34;&gt;Tutorial 2: Configuración Inicial de tu Espacio en TuTaller&lt;/h1&gt;&#xA;&lt;p&gt;La configuración de tu espacio es fundamental para adaptar TuTaller a las necesidades específicas de tu taller. En este tutorial vas a aprender a personalizar todos los aspectos de tu espacio: desde los colores de tu marca hasta las políticas de uso de créditos.&lt;/p&gt;&#xA;&lt;h2 id=&#34;accediendo-a-la-configuración&#34;&gt;Accediendo a la Configuración&lt;/h2&gt;&#xA;&lt;p&gt;Para acceder a la configuración de tu espacio:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Desde el panel de administración, hacé clic en &lt;strong&gt;&amp;ldquo;Configuración&amp;rdquo;&lt;/strong&gt; en el menú lateral&lt;/li&gt;&#xA;&lt;li&gt;Se abrirá la página de configuración con todas las opciones disponibles&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/workshop_core_blog/images/tutoriales/tutorial_10_configuracion_01_top_1763920227571.png&#34; alt=&#34;Configuración - Parte Superior&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

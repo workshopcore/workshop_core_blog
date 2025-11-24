@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soporte on TuTaller Blog</title>
+    <link>http://localhost:39601/workshop_core_blog/tags/soporte/</link>
+    <description>Recent content in Soporte on TuTaller Blog</description>
+    <generator>Hugo</generator>
+    <language>es-AR</language>
+    <lastBuildDate>Tue, 10 Sep 2024 10:00:00 -0300</lastBuildDate>
+    <atom:link href="http://localhost:39601/workshop_core_blog/tags/soporte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial 7: Impersonar Usuarios para Soporte</title>
+      <link>http://localhost:39601/workshop_core_blog/blog/posts/tutorial-07-impersonar-usuarios/</link>
+      <pubDate>Tue, 10 Sep 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/blog/posts/tutorial-07-impersonar-usuarios/</guid>
+      <description>&lt;h1 id=&#34;tutorial-7-impersonar-usuarios-para-soporte&#34;&gt;Tutorial 7: Impersonar Usuarios para Soporte&lt;/h1&gt;&#xA;&lt;p&gt;Una de las herramientas más potentes de TuTaller para el soporte al cliente es la capacidad de &lt;strong&gt;Impersonar usuario&lt;/strong&gt;. Esto te permite iniciar sesión temporalmente como si fueras uno de tus alumnos, sin necesidad de pedirles su contraseña.&lt;/p&gt;&#xA;&lt;h2 id=&#34;para-qué-sirve&#34;&gt;¿Para qué sirve?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Diagnóstico de problemas&lt;/strong&gt;: Si un alumno dice &amp;ldquo;no me aparece el botón de reservar&amp;rdquo;, podés entrar y ver si es verdad.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Guía paso a paso&lt;/strong&gt;: Podés ver exactamente lo que ellos ven para guiarlos por teléfono o chat.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Verificación&lt;/strong&gt;: Confirmar que los créditos se cargaron correctamente en su cuenta.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;cómo-impersonar&#34;&gt;Cómo Impersonar&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Hacé clic en &lt;strong&gt;&amp;ldquo;Impersonar usuario&amp;rdquo;&lt;/strong&gt; en el menú lateral.&lt;/li&gt;&#xA;&lt;li&gt;Buscá al usuario por nombre o email.&lt;/li&gt;&#xA;&lt;li&gt;Seleccionalo y confirmá la acción.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:39601/workshop_core_blog/images/tutoriales/tutorial_07_impersonar.png&#34; alt=&#34;Pantalla de Impersonación&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

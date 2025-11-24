@@ -2,31 +2,227 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on TuTaller Blog</title>
-    <link>http://localhost:45415/workshop_core_blog/tags/</link>
+    <link>http://localhost:39601/workshop_core_blog/tags/</link>
     <description>Recent content in Tags on TuTaller Blog</description>
     <generator>Hugo</generator>
     <language>es-AR</language>
     <lastBuildDate>Sat, 22 Nov 2025 19:58:00 -0300</lastBuildDate>
-    <atom:link href="http://localhost:45415/workshop_core_blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:39601/workshop_core_blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Funcionalidades</title>
-      <link>http://localhost:45415/workshop_core_blog/tags/funcionalidades/</link>
+      <link>http://localhost:39601/workshop_core_blog/tags/funcionalidades/</link>
       <pubDate>Sat, 22 Nov 2025 19:58:00 -0300</pubDate>
-      <guid>http://localhost:45415/workshop_core_blog/tags/funcionalidades/</guid>
+      <guid>http://localhost:39601/workshop_core_blog/tags/funcionalidades/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recursos</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/recursos/</link>
+      <pubDate>Sat, 22 Nov 2025 19:58:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/recursos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alumno</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/alumno/</link>
+      <pubDate>Sat, 22 Feb 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/alumno/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cuenta</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/cuenta/</link>
+      <pubDate>Sat, 22 Feb 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/cuenta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Perfil</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/perfil/</link>
+      <pubDate>Sat, 22 Feb 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/perfil/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/tutorial/</link>
+      <pubDate>Sat, 22 Feb 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alumnos</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/alumnos/</link>
+      <pubDate>Wed, 05 Feb 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/alumnos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reservas</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/reservas/</link>
+      <pubDate>Wed, 05 Feb 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/reservas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Comunicación</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/comunicaci%C3%B3n/</link>
+      <pubDate>Sat, 01 Feb 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/comunicaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notificaciones</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/notificaciones/</link>
+      <pubDate>Sat, 01 Feb 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/notificaciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clases Recurrentes</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/clases-recurrentes/</link>
+      <pubDate>Sat, 25 Jan 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/clases-recurrentes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Suscripciones</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/suscripciones/</link>
+      <pubDate>Sat, 25 Jan 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/suscripciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Registro</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/registro/</link>
+      <pubDate>Fri, 10 Jan 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/registro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Análisis</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/an%C3%A1lisis/</link>
+      <pubDate>Fri, 15 Nov 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/an%C3%A1lisis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Métricas</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/m%C3%A9tricas/</link>
+      <pubDate>Fri, 15 Nov 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/m%C3%A9tricas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digitalización</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/digitalizaci%C3%B3n/</link>
+      <pubDate>Fri, 20 Sep 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/digitalizaci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
       <title>Gestión</title>
-      <link>http://localhost:45415/workshop_core_blog/tags/gesti%C3%B3n/</link>
-      <pubDate>Sat, 22 Nov 2025 19:58:00 -0300</pubDate>
-      <guid>http://localhost:45415/workshop_core_blog/tags/gesti%C3%B3n/</guid>
+      <link>http://localhost:39601/workshop_core_blog/tags/gesti%C3%B3n/</link>
+      <pubDate>Fri, 20 Sep 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/gesti%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tutoriales</title>
-      <link>http://localhost:45415/workshop_core_blog/tags/tutoriales/</link>
-      <pubDate>Sat, 22 Nov 2025 19:58:00 -0300</pubDate>
-      <guid>http://localhost:45415/workshop_core_blog/tags/tutoriales/</guid>
+      <title>Insights</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/insights/</link>
+      <pubDate>Fri, 20 Sep 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/insights/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soporte</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/soporte/</link>
+      <pubDate>Tue, 10 Sep 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/soporte/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Usuarios</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/usuarios/</link>
+      <pubDate>Tue, 10 Sep 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/usuarios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Créditos</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/cr%C3%A9ditos/</link>
+      <pubDate>Sun, 25 Aug 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/cr%C3%A9ditos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ausentismo</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/ausentismo/</link>
+      <pubDate>Thu, 15 Aug 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/ausentismo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/tips/</link>
+      <pubDate>Thu, 15 Aug 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Calendario</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/calendario/</link>
+      <pubDate>Sat, 20 Jul 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/calendario/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clases</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/clases/</link>
+      <pubDate>Sat, 15 Jun 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/clases/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eventos</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/eventos/</link>
+      <pubDate>Sat, 15 Jun 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/eventos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recurrentes</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/recurrentes/</link>
+      <pubDate>Fri, 10 May 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/recurrentes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Configuración</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/configuraci%C3%B3n/</link>
+      <pubDate>Fri, 12 Apr 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/configuraci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Precios</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/precios/</link>
+      <pubDate>Fri, 12 Apr 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/precios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Administración</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/administraci%C3%B3n/</link>
+      <pubDate>Fri, 15 Mar 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/administraci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dashboard</title>
+      <link>http://localhost:39601/workshop_core_blog/tags/dashboard/</link>
+      <pubDate>Fri, 15 Mar 2024 10:00:00 -0300</pubDate>
+      <guid>http://localhost:39601/workshop_core_blog/tags/dashboard/</guid>
       <description></description>
     </item>
   </channel>

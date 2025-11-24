@@ -411,3 +411,45 @@ article header {
   box-shadow: none !important;
   border: none !important;
 }
+
+/* Article Page Header - Dark background with white text for contrast */
+header .cover {
+  background-color: var(--wc-secondary) !important;
+  /* Dark blue */
+}
+
+header .bg-black-40 {
+  background-color: rgba(3, 37, 108, 0.9) !important;
+  /* Dark blue with transparency */
+}
+
+/* Ensure header title and description have white text */
+header .white-90,
+header .white-80 {
+  color: #ffffff !important;
+}
+
+/* Reduce spacing between article end and footer */
+article {
+  margin-bottom: 1rem !important;
+  /* Reduced from 2rem */
+  padding-bottom: 1rem !important;
+}
+
+article .mt6 {
+  margin-top: 1.5rem !important;
+  /* Reduced from default 4rem */
+}
+
+/* Reduce spacing on all pages before footer */
+body>div,
+main {
+  padding-bottom: 0.5rem !important;
+}
+
+/* Ensure consistent reduced spacing */
+.ph2,
+.pv3,
+.pv4-l {
+  padding-bottom: 1rem !important;
+}
