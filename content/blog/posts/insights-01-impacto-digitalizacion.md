@@ -5,7 +5,7 @@ draft: false
 description: "Análisis basado en datos reales: cómo la digitalización impacta la retención de alumnos, ocupación de clases y tiempo administrativo en talleres y gimnasios de Argentina."
 tags: ["insights", "digitalización", "métricas", "gestión"]
 categories: ["Insights"]
-featured_image: "/workshop_core_blog/images/insights/insights_01_impacto_digitalizacion.png"
+featured_image: "/images/insights/insights_01_impacto_digitalizacion.png"
 ---
 
 # Insights: El Impacto Real de la Digitalización en Talleres Argentinos

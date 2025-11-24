@@ -5,7 +5,7 @@ draft: false
 description: "Descubrí estrategias probadas para reducir el no-show de tus alumnos: recordatorios automáticos, políticas claras y sistemas de incentivos que realmente funcionan."
 tags: ["tips", "gestión", "ausentismo", "reservas"]
 categories: ["Tips"]
-featured_image: "/workshop_core_blog/images/tips/tips_01_ausentismo.png"
+featured_image: "/images/tips/tips_01_ausentismo.png"
 ---
 
 # 5 Tips para Reducir el Ausentismo en tu Taller

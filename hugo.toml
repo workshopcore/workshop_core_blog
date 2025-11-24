@@ -1,4 +1,4 @@
-baseURL = 'https://workshopcore.github.io/workshop_core_blog/'
+baseURL = 'https://workshopcore.github.io/'
 languageCode = 'es-AR'
 defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = false

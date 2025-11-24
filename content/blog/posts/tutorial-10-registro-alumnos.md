@@ -6,7 +6,7 @@ description: "Guía paso a paso sobre cómo tus alumnos se registran, inician se
 tags: ["tutorial", "registro", "alumnos"]
 categories: ["Tutoriales"]
 series: ["Experiencia del Alumno"]
-featured_image: "/workshop_core_blog/images/tutoriales/tutorial_10_registro.png"
+featured_image: "/images/tutoriales/tutorial_10_registro.png"
 ---
 
 # Tutorial 10: Proceso de Registro del Alumno
@@ -17,7 +17,7 @@ Hasta ahora vimos todo desde tu lado (el administrador). Ahora vamos a ver cómo
 
 Cuando tus alumnos ingresan a la URL de tu espacio (ej: `tutaller.com.ar/app/tuespacio`), se encuentran con la pantalla de inicio de sesión.
 
-![Pantalla de Login](/workshop_core_blog/images/tutoriales/tutorial_10_registro.png)
+![Pantalla de Login](/images/tutoriales/tutorial_10_registro.png)
 
 ## Creando una Cuenta
 

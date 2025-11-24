@@ -6,7 +6,7 @@ description: "Administrá tu base de alumnos: asigná créditos, controlá pagos
 tags: ["tutorial", "usuarios", "créditos"]
 categories: ["Tutoriales"]
 series: ["Gestión de Usuarios"]
-featured_image: "/workshop_core_blog/images/tutoriales/tutorial_06_usuarios.png"
+featured_image: "/images/tutoriales/tutorial_06_usuarios.png"
 ---
 
 # Tutorial 6: Gestión de Usuarios y Créditos
@@ -17,7 +17,7 @@ La sección **"Usuarios y créditos"** es donde administrás toda la informació
 
 Al ingresar, ves una lista completa de todos los usuarios registrados en tu espacio.
 
-![Lista de Usuarios](/workshop_core_blog/images/tutoriales/tutorial_06_usuarios.png)
+![Lista de Usuarios](/images/tutoriales/tutorial_06_usuarios.png)
 
 La tabla te muestra datos clave:
 *   **Nombre y Email**: Para identificarlos.

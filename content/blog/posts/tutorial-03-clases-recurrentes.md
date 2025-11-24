@@ -6,7 +6,7 @@ description: "Guía práctica para crear clases que se repiten automáticamente 
 tags: ["tutorial", "clases", "recurrentes"]
 categories: ["Tutoriales"]
 series: ["Gestión de Clases"]
-featured_image: "/workshop_core_blog/images/tutoriales/tutorial_03_recurrentes.png"
+featured_image: "/images/tutoriales/tutorial_03_recurrentes.png"
 ---
 
 # Tutorial 3: Creando Tus Primeras Clases Recurrentes
@@ -17,13 +17,13 @@ Las clases recurrentes son la base de tu programación. Son esas actividades que
 
 Hacé clic en **"Recurrentes"** en el menú lateral. Acá vas a ver el listado de todas las clases fijas que ya creaste. Si es tu primera vez, la lista estará vacía.
 
-![Lista de Clases Recurrentes](/workshop_core_blog/images/tutoriales/tutorial_03_recurrentes.png)
+![Lista de Clases Recurrentes](/images/tutoriales/tutorial_03_recurrentes.png)
 
 ## Creando una Nueva Clase
 
 Para agregar una actividad a tu grilla, hacé clic en el botón **"Nueva clase"** (o el ícono **+**). Se abrirá un formulario donde definís las reglas de esta clase.
 
-![Formulario de Clase Recurrente](/workshop_core_blog/images/tutoriales/tutorial_03_recurrentes_form.png)
+![Formulario de Clase Recurrente](/images/tutoriales/tutorial_03_recurrentes_form.png)
 
 ### Datos de la Clase
 

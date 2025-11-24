@@ -6,7 +6,7 @@ description: "Aprendé a usar la vista de calendario para monitorear la ocupaci�
 tags: ["tutorial", "calendario", "reservas"]
 categories: ["Tutoriales"]
 series: ["Gestión de Clases"]
-featured_image: "/workshop_core_blog/images/tutoriales/tutorial_05_turnos.png"
+featured_image: "/images/tutoriales/tutorial_05_turnos.png"
 ---
 
 # Tutorial 5: Visualizando Turnos y Reservas
@@ -17,7 +17,7 @@ La sección de **"Turnos reservados"** es tu herramienta diaria para ver qué es
 
 Al ingresar, vas a ver una grilla con todas tus actividades programadas. Podés navegar por semanas para ver la programación futura o revisar qué pasó en semanas anteriores.
 
-![Calendario de Turnos](/workshop_core_blog/images/tutoriales/tutorial_05_turnos.png)
+![Calendario de Turnos](/images/tutoriales/tutorial_05_turnos.png)
 
 Cada bloque de clase te muestra información vital de un vistazo:
 *   **Nombre de la clase**

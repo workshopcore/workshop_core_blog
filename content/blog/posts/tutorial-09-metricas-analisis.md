@@ -6,7 +6,7 @@ description: "Descubrí cómo usar el panel de métricas para entender el rendim
 tags: ["tutorial", "métricas", "análisis"]
 categories: ["Tutoriales"]
 series: ["Comunicación y Métricas"]
-featured_image: "/workshop_core_blog/images/tutoriales/tutorial_09_metricas.png"
+featured_image: "/images/tutoriales/tutorial_09_metricas.png"
 ---
 
 # Tutorial 9: Métricas y Análisis
@@ -21,7 +21,7 @@ Al ingresar, vas a ver un resumen visual del rendimiento de tu taller.
 
 En la parte superior, encontrás los indicadores clave y gráficos de evolución:
 
-![Métricas Generales](/workshop_core_blog/images/tutoriales/tutorial_09_metricas_top.png)
+![Métricas Generales](/images/tutoriales/tutorial_09_metricas_top.png)
 
 *   **Reservas Totales**: Cuántos turnos se reservaron en el período.
 *   **Usuarios Activos**: Cuántos alumnos están participando regularmente.
@@ -32,7 +32,7 @@ En la parte superior, encontrás los indicadores clave y gráficos de evolución
 
 Más abajo, podés ver el detalle granular de cada movimiento en tu espacio:
 
-![Detalle de Registros](/workshop_core_blog/images/tutoriales/tutorial_09_metricas_bottom.png)
+![Detalle de Registros](/images/tutoriales/tutorial_09_metricas_bottom.png)
 
 Esta tabla te permite analizar día a día quién reservó, quién canceló y cómo fluyen los créditos en tu sistema.
 

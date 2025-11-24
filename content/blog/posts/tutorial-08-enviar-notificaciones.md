@@ -16,7 +16,7 @@ Mantener una comunicación fluida con tus alumnos es fundamental para el éxito 
 
 Desde el panel de administración, hacé clic en **"Enviar notificación"** en el menú lateral izquierdo. Se abrirá un formulario simple y directo donde podés componer tu mensaje.
 
-![Formulario de Notificaciones](/workshop_core_blog/images/tutoriales/tutorial_08_notificaciones_form.png)
+![Formulario de Notificaciones](/images/tutoriales/tutorial_08_notificaciones_form.png)
 
 ## Componentes del Formulario
 

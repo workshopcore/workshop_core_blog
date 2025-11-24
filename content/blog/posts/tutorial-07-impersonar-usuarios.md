@@ -6,7 +6,7 @@ description: "Aprendé a usar la función de impersonación para ver la platafor
 tags: ["tutorial", "soporte", "usuarios"]
 categories: ["Tutoriales"]
 series: ["Gestión de Usuarios"]
-featured_image: "/workshop_core_blog/images/tutoriales/tutorial_07_impersonar.png"
+featured_image: "/images/tutoriales/tutorial_07_impersonar.png"
 ---
 
 # Tutorial 7: Impersonar Usuarios para Soporte
@@ -25,7 +25,7 @@ Una de las herramientas más potentes de TuTaller para el soporte al cliente es 
 2.  Buscá al usuario por nombre o email.
 3.  Seleccionalo y confirmá la acción.
 
-![Pantalla de Impersonación](/workshop_core_blog/images/tutoriales/tutorial_07_impersonar.png)
+![Pantalla de Impersonación](/images/tutoriales/tutorial_07_impersonar.png)
 
 Inmediatamente, tu vista cambiará a la **App de Alumnos**. Vas a ver su perfil, sus créditos y su calendario. Todo lo que hagas (como reservar una clase) se registrará a nombre de ese usuario.
 

@@ -6,7 +6,7 @@ description: "Aprendé cómo tus alumnos pueden suscribirse a clases semanales f
 tags: ["tutorial", "suscripciones", "alumnos", "clases recurrentes"]
 categories: ["Tutoriales"]
 series: ["Experiencia del Alumno"]
-featured_image: "/workshop_core_blog/images/tutoriales/tutorial_13_suscripciones.png"
+featured_image: "/images/tutoriales/tutorial_13_suscripciones.png"
 ---
 
 # Tutorial 13: Suscripciones a Clases Recurrentes
@@ -17,7 +17,7 @@ Para los alumnos que asisten siempre en el mismo horario (por ejemplo, "Yoga los
 
 Desde la sección **"Suscripciones"** (o "Clases Semanales") en el menú, el alumno puede ver todas las clases recurrentes disponibles.
 
-![Panel de Suscripciones](/workshop_core_blog/images/tutoriales/tutorial_13_suscripciones.png)
+![Panel de Suscripciones](/images/tutoriales/tutorial_13_suscripciones.png)
 
 ### Pasos para el Alumno:
 

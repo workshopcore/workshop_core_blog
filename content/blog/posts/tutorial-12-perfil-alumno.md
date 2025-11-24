@@ -6,7 +6,7 @@ description: "Conocé el perfil del alumno en TuTaller: cómo ver datos personal
 tags: ["tutorial", "perfil", "alumno", "cuenta"]
 categories: ["Tutoriales"]
 series: ["Experiencia del Alumno"]
-featured_image: "/workshop_core_blog/images/tutoriales/tutorial_12_perfil.png"
+featured_image: "/images/tutoriales/tutorial_12_perfil.png"
 ---
 
 # Tutorial 12: Perfil del Alumno - Gestión de Cuenta Personal
@@ -17,7 +17,7 @@ El perfil es el espacio personal de cada alumno donde puede gestionar cuenta, ve
 
 Desde la aplicación web o móvil, el alumno hace clic en **"Perfil"** en el menú.
 
-![Vista de Perfil del Alumno](/workshop_core_blog/images/tutoriales/tutorial_12_perfil.png)
+![Vista de Perfil del Alumno](/images/tutoriales/tutorial_12_perfil.png)
 
 ## Información que Se Muestra
 

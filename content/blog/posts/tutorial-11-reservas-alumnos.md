@@ -6,7 +6,7 @@ description: "Aprendé cómo tus alumnos buscan clases, reservan su lugar y gest
 tags: ["tutorial", "reservas", "alumnos"]
 categories: ["Tutoriales"]
 series: ["Experiencia del Alumno"]
-featured_image: "/workshop_core_blog/images/tutoriales/tutorial_11_reservas.png"
+featured_image: "/images/tutoriales/tutorial_11_reservas.png"
 ---
 
 # Tutorial 11: Reservas desde la Perspectiva del Alumno
@@ -17,7 +17,7 @@ La función principal de la app para tus alumnos es reservar clases. El proceso 
 
 Desde el menú principal, el alumno accede a **"Reservar"**. Acá ve un listado o calendario con todas las clases disponibles para los próximos días.
 
-![Pantalla de Reservas](/workshop_core_blog/images/tutoriales/tutorial_11_reservas.png)
+![Pantalla de Reservas](/images/tutoriales/tutorial_11_reservas.png)
 
 ## El Proceso de Reserva
 

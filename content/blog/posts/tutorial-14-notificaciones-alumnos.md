@@ -6,7 +6,7 @@ description: "Guía para que tus alumnos sepan dónde encontrar y cómo gestiona
 tags: ["tutorial", "notificaciones", "alumnos", "comunicación"]
 categories: ["Tutoriales"]
 series: ["Experiencia del Alumno"]
-featured_image: "/workshop_core_blog/images/tutoriales/tutorial_14_notificaciones_alumno.png"
+featured_image: "/images/tutoriales/tutorial_14_notificaciones_alumno.png"
 ---
 
 # Tutorial 14: Gestionar Notificaciones
@@ -21,7 +21,7 @@ La comunicación fluida es clave. En TuTaller, los alumnos reciben notificacione
 
 Los alumnos pueden acceder a sus mensajes haciendo clic en el ícono de la **campana** o en la sección **"Notificaciones"** del menú.
 
-![Centro de Notificaciones del Alumno](/workshop_core_blog/images/tutoriales/tutorial_14_notificaciones_alumno.png)
+![Centro de Notificaciones del Alumno](/images/tutoriales/tutorial_14_notificaciones_alumno.png)
 
 ### Funcionalidades:
 

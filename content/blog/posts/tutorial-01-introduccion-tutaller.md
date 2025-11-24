@@ -6,7 +6,7 @@ description: "Aprendé a navegar por el panel de administración de TuTaller y d
 tags: ["tutorial", "dashboard", "administración"]
 categories: ["Tutoriales"]
 series: ["Primeros Pasos"]
-featured_image: "/workshop_core_blog/images/tutoriales/tutorial_01_dashboard.png"
+featured_image: "/images/tutoriales/tutorial_01_dashboard.png"
 ---
 
 # Tutorial 1: Primeros Pasos en TuTaller
@@ -17,7 +17,7 @@ Cuando ingresás por primera vez a TuTaller como administrador, lo primero que v
 
 Al iniciar sesión, el sistema te lleva directamente al dashboard principal. Acá tenés una vista general de tu espacio con acceso rápido a las funciones más importantes. La interfaz está diseñada para ser limpia y fácil de usar, permitiéndote encontrar lo que necesitás sin distracciones.
 
-![Panel de Administración Principal](/workshop_core_blog/images/tutoriales/tutorial_01_dashboard.png)
+![Panel de Administración Principal](/images/tutoriales/tutorial_01_dashboard.png)
 
 ## Entendiendo el Menú Principal
 

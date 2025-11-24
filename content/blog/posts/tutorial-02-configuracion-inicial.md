@@ -6,7 +6,7 @@ description: "Aprendé a personalizar tu espacio en TuTaller: definí el nombre,
 tags: ["tutorial", "configuración", "precios"]
 categories: ["Tutoriales"]
 series: ["Primeros Pasos"]
-featured_image: "/workshop_core_blog/images/tutoriales/tutorial_02_config.png"
+featured_image: "/images/tutoriales/tutorial_02_config.png"
 ---
 
 # Tutorial 2: Configurando Tu Espacio por Primera Vez
@@ -15,7 +15,7 @@ Una vez que conocés el panel, el siguiente paso es configurar tu espacio para q
 
 Para acceder, hacé clic en **"Configuración"** en el menú lateral. Vas a ver un formulario simple con los campos esenciales para tu gestión.
 
-![Pantalla de Configuración](/workshop_core_blog/images/tutoriales/tutorial_02_config.png)
+![Pantalla de Configuración](/images/tutoriales/tutorial_02_config.png)
 
 ## Información Básica del Espacio
 

@@ -6,7 +6,7 @@ description: "Aprendé a crear eventos únicos, workshops y clases especiales qu
 tags: ["tutorial", "clases", "eventos"]
 categories: ["Tutoriales"]
 series: ["Gestión de Clases"]
-featured_image: "/workshop_core_blog/images/tutoriales/tutorial_04_norecurrentes.png"
+featured_image: "/images/tutoriales/tutorial_04_norecurrentes.png"
 ---
 
 # Tutorial 4: Gestión de Clases No Recurrentes
@@ -26,7 +26,7 @@ A diferencia de las recurrentes, estas clases ocurren una sola vez en una fecha 
 1.  Hacé clic en **"No recurrentes"** en el menú lateral.
 2.  Hacé clic en el botón **"Nueva clase"**.
 
-![Lista de Clases No Recurrentes](/workshop_core_blog/images/tutoriales/tutorial_04_norecurrentes.png)
+![Lista de Clases No Recurrentes](/images/tutoriales/tutorial_04_norecurrentes.png)
 
 El formulario es muy similar al de las clases recurrentes, pero con una diferencia clave: **tenés que elegir una fecha específica** en el calendario, además del horario.
 

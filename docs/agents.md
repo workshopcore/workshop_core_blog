@@ -211,7 +211,7 @@ description: "Meta description (150-160 chars)"
 tags: ["tag1", "tag2", "tag3"]  # 3-6 tags
 categories: ["Category"]         # Usually 1, max 2
 series: ["Series Name"]          # If part of series
-featured_image: "/workshop_core_blog/images/path/to/image.png"
+featured_image: "/images/path/to/image.png"
 ---
 ```
 
@@ -244,7 +244,7 @@ featured_image: "/workshop_core_blog/images/path/to/image.png"
 cd /home/triton/go/src/github.com/workshopcore/workshop_core_blog
 hugo server -D
 
-# accessible at http://localhost:1313/workshop_core_blog/
+# accessible at http://localhost:1313/
 ```
 
 ### Validation Commands
