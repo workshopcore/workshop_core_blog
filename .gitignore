@@ -1,1 +1,18 @@
-docs/**
+# Hugo build output
+/public/
+
+# Hugo cache & temp files
+/resources/_gen/
+/hugo_stats.json
+/.hugo_build.lock
+
+# OS crap
+.DS_Store
+Thumbs.db
+
+# IDE/editor stuff
+.vscode/
+.idea/
+
+# Logs
+*.log
