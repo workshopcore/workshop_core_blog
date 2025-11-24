@@ -225,7 +225,7 @@ Tiempo de recuperación: imediato (mes 1)
 
 **Realidad**: Hay opciones para todos los presupuestos. El costo de NO digitalizarte (tiempo perdido, alumnos que no capturás, errores) es mucho mayor.
 
-### Mito 3: "Perdré el toque personal"
+### Mito 3: "Voy a perder el toque personal"
 
 **Realidad**: La digitalización LIBERA tiempo para más interacción personal. En lugar de estar en el teléfono confirmando asistencias, podés estar conversando con alumn os en persona.
 
