@@ -260,15 +260,6 @@ Los talleres que no se adapten quedarán rezagados.
 
 ---
 
-## Recursos Adicionales
-
-- 📘 [Guía completa de digitalización](https://tutaller.com.ar/guia)
-- 🎥 [Video: Tour por TuTaller](https://tutaller.com.ar/tour)
-- 💬 [Comunidad de talleres digitales](https://tutaller.com.ar/comunidad)
-- 📱 [Contacto por WhatsApp](https://wa.me/5491150000000)
-
----
-
 *¿Ya digitalizaste tu taller? ¿Qué fue lo que más te sorprendió del cambio? Contamos en los comentarios.*
 
 **Keywords**: digitalización talleres, gestión de talleres, sistema de reservas online, software para gimnasios, plataforma de clases, automatización talleres Argentina
