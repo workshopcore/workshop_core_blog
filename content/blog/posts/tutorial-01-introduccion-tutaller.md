@@ -3,7 +3,7 @@ title: "Tutorial 1: Primeros Pasos en TuTaller - Conociendo el Panel de Administ
 date: 2024-03-15T10:00:00-03:00
 draft: false
 description: "Aprendé a navegar por el panel de administración de TuTaller y descubrí todas las herramientas disponibles para gestionar tu espacio de clases de forma eficiente."
-tags: ["tutorial", "dashboard", "administración"]
+tags: ["tutorial", "dashboard", "administración", "admin"]
 categories: ["Tutoriales"]
 series: ["Primeros Pasos"]
 featured_image: "/images/tutoriales/tutorial_01_dashboard.png"

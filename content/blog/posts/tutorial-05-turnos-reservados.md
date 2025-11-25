@@ -3,7 +3,7 @@ title: "Tutorial 5: Visualizando Turnos y Reservas"
 date: 2024-07-20T10:00:00-03:00
 draft: false
 description: "Aprendé a usar la vista de calendario para monitorear la ocupación de tus clases y gestionar las reservas de tus alumnos."
-tags: ["tutorial", "calendario", "reservas"]
+tags: ["tutorial", "calendario", "reservas", "admin"]
 categories: ["Tutoriales"]
 series: ["Gestión de Clases"]
 featured_image: "/images/tutoriales/tutorial_05_turnos.png"

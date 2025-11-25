@@ -3,7 +3,7 @@ title: "Tutorial 4: Gestión de Clases No Recurrentes"
 date: 2024-06-15T10:00:00-03:00
 draft: false
 description: "Aprendé a crear eventos únicos, workshops y clases especiales que no se repiten semanalmente."
-tags: ["tutorial", "clases", "eventos"]
+tags: ["tutorial", "clases", "eventos", "admin"]
 categories: ["Tutoriales"]
 series: ["Gestión de Clases"]
 featured_image: "/images/tutoriales/tutorial_04_norecurrentes.png"

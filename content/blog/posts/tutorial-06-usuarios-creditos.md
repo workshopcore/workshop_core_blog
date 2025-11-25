@@ -3,7 +3,7 @@ title: "Tutorial 6: Gestión de Usuarios y Créditos"
 date: 2024-08-25T10:00:00-03:00
 draft: false
 description: "Administrá tu base de alumnos: asigná créditos, controlá pagos y gestioná la información de cada usuario de forma centralizada."
-tags: ["tutorial", "usuarios", "créditos"]
+tags: ["tutorial", "usuarios", "créditos", "admin"]
 categories: ["Tutoriales"]
 series: ["Gestión de Usuarios"]
 featured_image: "/images/tutoriales/tutorial_06_usuarios.png"

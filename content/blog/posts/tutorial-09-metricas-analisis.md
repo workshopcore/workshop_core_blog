@@ -3,7 +3,7 @@ title: "Tutorial 9: Métricas y Análisis de tu Taller"
 date: 2024-11-15T10:00:00-03:00
 draft: false
 description: "Descubrí cómo usar el panel de métricas para entender el rendimiento de tu negocio: ocupación, asistencia y crecimiento de usuarios."
-tags: ["tutorial", "métricas", "análisis"]
+tags: ["tutorial", "métricas", "análisis", "admin"]
 categories: ["Tutoriales"]
 series: ["Comunicación y Métricas"]
 featured_image: "/images/tutoriales/tutorial_09_metricas.png"

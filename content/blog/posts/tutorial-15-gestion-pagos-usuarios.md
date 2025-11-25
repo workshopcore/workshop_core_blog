@@ -3,7 +3,7 @@ title: "Tutorial 15: Gestión de Pagos y Usuarios"
 date: 2025-11-24T15:00:00-03:00
 draft: false
 description: "Aprendé a gestionar pagos mensuales, asignar créditos globales, desactivar usuarios y promover administradores en TuTaller."
-tags: ["tutorial", "administración", "pagos", "usuarios", "créditos"]
+tags: ["tutorial", "administración", "pagos", "usuarios", "créditos", "admin"]
 categories: ["Tutoriales"]
 series: ["Gestión de Usuarios"]
 featured_image: "/images/tutoriales/tutorial_15_users_list.png"

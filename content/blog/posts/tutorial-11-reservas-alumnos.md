@@ -3,7 +3,7 @@ title: "Tutorial 11: Reservas desde la Perspectiva del Alumno"
 date: 2025-02-05T10:00:00-03:00
 draft: false
 description: "Aprendé cómo tus alumnos buscan clases, reservan su lugar y gestionan sus turnos desde la aplicación."
-tags: ["tutorial", "reservas", "alumnos"]
+tags: ["tutorial", "reservas", "alumnos", "student"]
 categories: ["Tutoriales"]
 series: ["Experiencia del Alumno"]
 featured_image: "/images/tutoriales/tutorial_11_reservas.png"

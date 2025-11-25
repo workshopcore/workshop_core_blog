@@ -3,7 +3,7 @@ title: "Tutorial 8: Enviar Notificaciones a tus Alumnos"
 date: 2024-10-20T10:00:00-03:00
 draft: false
 description: "Aprendé a comunicarte efectivamente con tus alumnos usando el sistema de notificaciones de TuTaller. Enviá mensajes personalizados, anuncios importantes o recordatorios."
-tags: ["tutorial", "notificaciones", "comunicación"]
+tags: ["tutorial", "notificaciones", "comunicación", "admin"]
 categories: ["Tutoriales"]
 series: ["Comunicación y Métricas"]
 ---
@@ -227,6 +227,10 @@ Ahora que sabés cómo usar el sistema de notificaciones, podés explorar cómo 
 
 - **[Tutorial 9: Métricas y Análisis]({{< ref "tutorial-09-metricas-analisis.md" >}})**: Medí la efectividad de tu gestión
 - **[Tutorial 10: Proceso de Registro del Alumno]({{< ref "tutorial-10-registro-alumnos.md" >}})**: Entendé la experiencia desde el lado del alumno
+
+---
+
+*Continuá con el [Tutorial 9: Métricas y Análisis]({{< ref "tutorial-09-metricas-analisis.md" >}}) para aprender a medir el rendimiento de tu espacio.*
 
 ---
 

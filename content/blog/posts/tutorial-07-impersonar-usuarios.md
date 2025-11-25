@@ -3,7 +3,7 @@ title: "Tutorial 7: Impersonar Usuarios para Soporte"
 date: 2024-09-10T10:00:00-03:00
 draft: false
 description: "Aprendé a usar la función de impersonación para ver la plataforma exactamente como la ven tus alumnos y resolver sus dudas rápidamente."
-tags: ["tutorial", "soporte", "usuarios"]
+tags: ["tutorial", "soporte", "usuarios", "admin"]
 categories: ["Tutoriales"]
 series: ["Gestión de Usuarios"]
 featured_image: "/images/tutoriales/tutorial_07_impersonar.png"

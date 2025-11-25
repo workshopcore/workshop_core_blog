@@ -3,7 +3,7 @@ title: "Tutorial 16: Configuración Avanzada del Espacio"
 date: 2025-11-24T16:00:00-03:00
 draft: false
 description: "Aprendé a configurar permisos y restricciones en tu espacio: controlá qué pueden hacer los alumnos con sus suscripciones y créditos."
-tags: ["tutorial", "configuración", "permisos", "administración"]
+tags: ["tutorial", "configuración", "permisos", "administración", "admin"]
 categories: ["Tutoriales"]
 series: ["Configuración"]
 featured_image: "/images/tutoriales/tutorial_16_config_panel.png"

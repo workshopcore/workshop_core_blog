@@ -3,7 +3,7 @@ title: "Tutorial 3: Creando Tus Primeras Clases Recurrentes"
 date: 2024-05-10T10:00:00-03:00
 draft: false
 description: "Guía práctica para crear clases que se repiten automáticamente cada semana: configurá horarios, capacidad, días y dejá que el sistema genere todo por vos."
-tags: ["tutorial", "clases", "recurrentes"]
+tags: ["tutorial", "clases", "recurrentes", "admin"]
 categories: ["Tutoriales"]
 series: ["Gestión de Clases"]
 featured_image: "/images/tutoriales/tutorial_03_recurrentes.png"

@@ -3,7 +3,7 @@ title: "Tutorial 12: Perfil del Alumno - Gestión de Cuenta Personal"
 date: 2025-02-22T10:00:00-03:00
 draft: false
 description: "Conocé el perfil del alumno en TuTaller: cómo ver datos personales, editar información, cambiar contraseña y gestionar la cuenta desde la app móvil."
-tags: ["tutorial", "perfil", "alumno", "cuenta"]
+tags: ["tutorial", "perfil", "alumno", "cuenta", "student"]
 categories: ["Tutoriales"]
 series: ["Experiencia del Alumno"]
 featured_image: "/images/tutoriales/tutorial_12_perfil.png"
@@ -129,11 +129,13 @@ El perfil se enfoca principalmente en la gestión de datos personales y de cuent
 
 ## Próximos Pasos
 
-Este es el último tutorial de la serie sobre TuTaller. Ya conocés tanto la experiencia desde el lado del administrador como desde el lado del alumno. Si necesitás repasar algún tema específico, aquí tenés acceso rápido a otros tutoriales relevantes:
+Ya conocés cómo los alumnos gestionan su perfil personal. Ahora aprendé cómo manejan sus suscripciones a clases recurrentes:
 
-- **[Tutorial 10: Proceso de Registro del Alumno]({{< ref "tutorial-10-registro-alumnos.md" >}})**: Cómo los alumnos se dan de alta en el sistema
-- **[Tutorial 11: Reservas desde la Perspectiva del Alumno]({{< ref "tutorial-11-reservas-alumnos.md" >}})**: Cómo reservan clases y gestionan su suscripción
-- **[Tutorial 1: Introducción al Panel de Administración]({{< ref "tutorial-01-introduccion-tutaller.md" >}})**: Para recordar las herramientas disponibles para administradores
+- **[Tutorial 13: Gestionar Suscripciones]({{< ref "tutorial-13-suscripciones-alumnos.md" >}})**: Cómo los alumnos se suscriben y desuscriben de clases
+
+---
+
+*Continuá con el [Tutorial 13: Gestionar Suscripciones]({{< ref "tutorial-13-suscripciones-alumnos.md" >}}) para aprender cómo los alumnos administran sus clases recurrentes.*
 
 ---
 

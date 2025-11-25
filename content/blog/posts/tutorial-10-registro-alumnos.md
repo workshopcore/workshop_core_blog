@@ -3,7 +3,7 @@ title: "Tutorial 10: Proceso de Registro del Alumno"
 date: 2025-01-10T10:00:00-03:00
 draft: false
 description: "Guía paso a paso sobre cómo tus alumnos se registran, inician sesión y acceden a la plataforma por primera vez."
-tags: ["tutorial", "registro", "alumnos"]
+tags: ["tutorial", "registro", "alumnos", "student"]
 categories: ["Tutoriales"]
 series: ["Experiencia del Alumno"]
 featured_image: "/images/tutoriales/tutorial_10_registro.png"

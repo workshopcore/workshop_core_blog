@@ -3,7 +3,7 @@ title: "Tutorial 13: Suscripciones a Clases Recurrentes"
 date: 2025-01-25T10:00:00-03:00
 draft: false
 description: "Aprendé cómo tus alumnos pueden suscribirse a clases semanales fijas para asegurar su lugar automáticamente."
-tags: ["tutorial", "suscripciones", "alumnos", "clases recurrentes"]
+tags: ["tutorial", "suscripciones", "alumnos", "clases recurrentes", "student"]
 categories: ["Tutoriales"]
 series: ["Experiencia del Alumno"]
 featured_image: "/images/tutoriales/tutorial_13_suscripciones.png"

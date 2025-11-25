@@ -3,7 +3,7 @@ title: "Tutorial 14: Gestionar Notificaciones (Alumno)"
 date: 2025-02-01T10:00:00-03:00
 draft: false
 description: "Guía para que tus alumnos sepan dónde encontrar y cómo gestionar las notificaciones importantes del taller."
-tags: ["tutorial", "notificaciones", "alumnos", "comunicación"]
+tags: ["tutorial", "notificaciones", "alumnos", "comunicación", "student"]
 categories: ["Tutoriales"]
 series: ["Experiencia del Alumno"]
 featured_image: "/images/tutoriales/tutorial_14_notificaciones_alumno.png"
@@ -33,4 +33,4 @@ Enseñarles a tus alumnos a revisar esta sección te asegura que no se pierdan n
 
 ---
 
-*¡Felicitaciones! Completaste la serie de tutoriales de TuTaller. Ahora sos un experto en la gestión de tu espacio digital.*
+*Continuá con el [Tutorial 15: Gestión de Pagos de Usuarios]({{< ref "tutorial-15-gestion-pagos-usuarios.md" >}}) para aprender a administrar los pagos de tus alumnos.*

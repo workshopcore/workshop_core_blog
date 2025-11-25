@@ -3,7 +3,7 @@ title: "Tutorial 2: Configuración Inicial de tu Espacio"
 date: 2024-04-12T10:00:00-03:00
 draft: false
 description: "Aprendé a personalizar tu espacio en TuTaller: definí el nombre, descripción, precios de suscripción y créditos incluidos para tus alumnos."
-tags: ["tutorial", "configuración", "precios"]
+tags: ["tutorial", "configuración", "precios", "admin"]
 categories: ["Tutoriales"]
 series: ["Primeros Pasos"]
 featured_image: "/images/tutoriales/tutorial_02_config.png"

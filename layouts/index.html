@@ -33,27 +33,22 @@
     <div class="nav-card">
       <span class="nav-icon">🏷️</span>
       <h3>Etiquetas</h3>
-      <div class="tag-cloud" style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem;">
-        {{/* Sort tags by count and show top 15 */}}
-        {{ $tagCount := 0 }}
-        {{ range $name, $taxonomy := .Site.Taxonomies.tags.ByCount }}
-        {{ if compare.Lt $tagCount 15 }}
-        {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
-        {{ $count := len $taxonomy }}
-        <a href="{{ .Permalink }}"
-          style="display: inline-block; padding: 0.375rem 0.75rem; background-color: #E8F8FA; color: #06BEE1; border-radius: 0.375rem; text-decoration: none; font-size: {{ if compare.Ge $count 3 }}1rem{{ else }}0.875rem{{ end }}; font-weight: {{ if compare.Ge $count 5 }}600{{ else }}400{{ end }}; transition: all 0.2s;">
-          {{ $name | inflect.Humanize }} <span style="opacity: 0.7;">({{ $count }})</span>
-        </a>
-        {{ $tagCount = math.Add $tagCount 1 }}
+      <ul>
+        {{/* Show only main navigation tags: admin, student, blog */}}
+        {{ $mainTags := slice "admin" "student" }}
+        {{ range $mainTags }}
+        {{ $tagName := . }}
+        {{ with $.Site.Taxonomies.tags.Get $tagName }}
+        {{ with $.Site.GetPage (printf "/tags/%s" $tagName) }}
+        <li>
+          <a href="{{ .Permalink }}">
+            {{ .Title }} <span class="f6 gray">({{ len ($.Site.Taxonomies.tags.Get $tagName) }})</span>
+          </a>
+        </li>
         {{ end }}
         {{ end }}
         {{ end }}
-        {{/* Link to see all tags */}}
-        <a href="/tags/"
-          style="display: inline-block; padding: 0.375rem 0.75rem; background-color: #f0f0f0; color: #2C3E50; border-radius: 0.375rem; text-decoration: none; font-size: 0.875rem; font-style: italic;">
-          Ver todas →
-        </a>
-      </div>
+      </ul>
     </div>
     {{ end }}
 
