@@ -25,10 +25,9 @@ A diferencia de las recurrentes, estas clases ocurren una sola vez en una fecha 
 
 1.  Hacé clic en **"No recurrentes"** en el menú lateral.
 2.  Hacé clic en el botón **"Nueva clase"**.
-
-![Lista de Clases No Recurrentes](/images/tutoriales/tutorial_04_norecurrentes.png)
-
 El formulario es muy similar al de las clases recurrentes, pero con una diferencia clave: **tenés que elegir una fecha específica** en el calendario, además del horario.
+
+![Formulario de Clase No Recurrente](/images/tutoriales/tutorial_04_norecurrentes_form.png)
 
 ### Configuración del Evento
 

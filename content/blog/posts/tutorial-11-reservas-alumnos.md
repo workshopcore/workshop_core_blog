@@ -17,7 +17,7 @@ La función principal de la app para tus alumnos es reservar clases. El proceso 
 
 Desde el menú principal, el alumno accede a **"Reservar"**. Acá ve un listado o calendario con todas las clases disponibles para los próximos días.
 
-![Pantalla de Reservas](/images/tutoriales/tutorial_11_reservas.png)
+<img src="/images/tutoriales/tutorial_11_reservas_mobile.png" alt="Pantalla de Reservas" width="300"/>
 
 ## El Proceso de Reserva
 

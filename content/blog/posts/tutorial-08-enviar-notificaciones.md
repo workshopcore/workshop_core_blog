@@ -79,6 +79,8 @@ Una vez que completaste todos los campos, revisá el contenido una última vez. 
 
 Cuando estés seguro de que todo está correcto, hacé clic en el botón **"Enviar notificación"**. El sistema procesará el envío y tus alumnos recibirán el mensaje en la sección de notificaciones de su app.
 
+<img src="/images/tutoriales/tutorial_08_notificaciones_student_mobile.png" alt="Notificación Recibida (Vista Alumno)" width="300"/>
+
 ## Casos de Uso Frecuentes
 
 ### Comunicar Nuevas Clases

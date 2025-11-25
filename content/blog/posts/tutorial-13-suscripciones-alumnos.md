@@ -17,7 +17,7 @@ Para los alumnos que asisten siempre en el mismo horario (por ejemplo, "Yoga los
 
 Desde la sección **"Suscripciones"** (o "Clases Semanales") en el menú, el alumno puede ver todas las clases recurrentes disponibles.
 
-![Panel de Suscripciones](/images/tutoriales/tutorial_13_suscripciones.png)
+<img src="/images/tutoriales/tutorial_13_suscripciones_mobile.png" alt="Panel de Suscripciones" width="300"/>
 
 ### Pasos para el Alumno:
 

@@ -48,6 +48,8 @@ Una de las grandes ventajas de TuTaller es que es completamente responsivo. Esto
 
 Si estás en la computadora, vas a ver el menú lateral siempre visible. Si estás en el celular, el menú se oculta para darte más espacio de pantalla, pero podés acceder a él tocando el ícono de las tres rayitas arriba a la izquierda. Todas las funciones están disponibles en todos los dispositivos, así que no estás atado a la oficina.
 
+<img src="/images/tutoriales/tutorial_01_dashboard_mobile.png" alt="Panel de Administración en Móvil" width="300"/>
+
 ## Próximos Pasos
 
 Ahora que ya te ubicás en el panel, es hora de empezar a configurar tu espacio. En el próximo tutorial vamos a ver en detalle la sección de **Configuración**, donde vas a poder ponerle nombre a tu taller, definir los precios de tus suscripciones y personalizar la apariencia.

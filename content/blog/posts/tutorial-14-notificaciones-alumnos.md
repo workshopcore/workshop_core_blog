@@ -21,7 +21,7 @@ La comunicación fluida es clave. En TuTaller, los alumnos reciben notificacione
 
 Los alumnos pueden acceder a sus mensajes haciendo clic en el ícono de la **campana** o en la sección **"Notificaciones"** del menú.
 
-![Centro de Notificaciones del Alumno](/images/tutoriales/tutorial_14_notificaciones_alumno.png)
+<img src="/images/tutoriales/tutorial_14_notificaciones_mobile.png" alt="Centro de Notificaciones del Alumno" width="300"/>
 
 ### Funcionalidades:
 

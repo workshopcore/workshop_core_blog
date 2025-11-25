@@ -29,9 +29,13 @@ Si es la primera vez que ingresan, deben hacer clic en **"Registrarse"** (o "Cre
 
 Una vez completado, el sistema crea su perfil automáticamente y ya pueden ingresar.
 
+<img src="/images/tutoriales/tutorial_10_signup.png" alt="Pantalla de Registro" width="300"/>
+
 ## Primeros Pasos del Alumno
 
 Al entrar, verán la pantalla principal de la app de alumnos, donde podrán ver sus créditos (inicialmente 0 hasta que les cargues) y las próximas clases disponibles.
+
+<img src="/images/tutoriales/tutorial_10_student_dashboard.png" alt="Dashboard del Alumno" width="300"/>
 
 ---
 

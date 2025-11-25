@@ -17,7 +17,7 @@ El perfil es el espacio personal de cada alumno donde puede gestionar cuenta, ve
 
 Desde la aplicación web o móvil, el alumno hace clic en **"Perfil"** en el menú.
 
-![Vista de Perfil del Alumno](/images/tutoriales/tutorial_12_perfil.png)
+<img src="/images/tutoriales/tutorial_12_perfil_mobile.png" alt="Vista de Perfil del Alumno" width="300"/>
 
 ## Información que Se Muestra
 

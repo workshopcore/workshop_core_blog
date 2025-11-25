@@ -21,31 +21,28 @@ Hacé clic en **"Recurrentes"** en el menú lateral. Acá vas a ver el listado d
 
 ## Creando una Nueva Clase
 
-Para agregar una actividad a tu grilla, hacé clic en el botón **"Nueva clase"** (o el ícono **+**). Se abrirá un formulario donde definís las reglas de esta clase.
+Para agregar una actividad a tu grilla, utilizá el formulario **"Habilitar clases semanales [Recurrentes]"**. Este panel te permite definir las reglas de la clase de manera rápida y sencilla.
 
 ![Formulario de Clase Recurrente](/images/tutoriales/tutorial_03_recurrentes_form.png)
 
-### Datos de la Clase
+### Configuración de la Clase
 
-1.  **Nombre**: Poné un nombre claro y descriptivo. Ej: "Pilates Reformer", "Crossfit Mañana".
-2.  **Descripción** (Opcional): Detalles extra para tus alumnos. "Traer toalla y agua", "Nivel avanzado".
+El formulario consta de 4 campos obligatorios:
 
-### Días y Horarios
+1.  **Día**: Seleccioná el día de la semana en que se dicta la clase (ej: "Lunes"). El sistema repetirá esta clase todos los lunes automáticamente.
+2.  **Horarios**: Definí la hora de inicio (**Comienzo**) y la hora de finalización (**Fin**) de la clase.
+3.  **Lugares disponibles**: Indicá la capacidad máxima de alumnos para esta clase. Una vez que se ocupen estos lugares, la clase figurará como completa.
+4.  **Créditos**: Establecé el costo de la clase (generalmente **1 crédito**, pero podés ajustarlo según corresponda).
 
-Esta es la parte mágica. Seleccioná los días de la semana en que se dicta esta clase.
-*   Si seleccionás **Lunes** y **Miércoles**, el sistema creará turnos para todos los lunes y miércoles futuros.
-*   Definí la **Hora de inicio** y la **Duración** (en minutos). El sistema calculará la hora de fin automáticamente.
-
-### Capacidad y Costo
-
-*   **Capacidad**: ¿Cuántos alumnos entran en la clase? Este límite es estricto: cuando se llenan los cupos, nadie más puede reservar (a menos que habilites lista de espera si la función existe).
-*   **Créditos**: ¿Cuánto cuesta esta clase? Lo estándar es **1 crédito**, pero podés crear clases especiales que cuesten más.
+Una vez completados estos datos, hacé clic en el botón **"Crear clase recurrente"** para guardar.
 
 ## Guardar y Activar
 
 Una vez que completaste todo, guardá la clase. ¡Listo! Ya tenés tu actividad programada.
 
 El sistema generará los turnos en el calendario automáticamente. Si vas a la sección de "Turnos reservados" (que veremos en el Tutorial 5), ya vas a ver estas clases disponibles para que tus alumnos reserven.
+
+![Calendario con Clases Recurrentes](/images/tutoriales/tutorial_03_recurrentes_calendar.png)
 
 ## Editar o Borrar
 
