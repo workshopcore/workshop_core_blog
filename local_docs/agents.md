@@ -87,6 +87,40 @@ I need 4 screenshots for Tutorial 15 (User Management):
 - **Compression**: Use tools like `pngquant` or online compressors if needed
 - **Naming**: Descriptive, lowercase with underscores
 
+## Content Authenticity Standards
+
+### CRITICAL: Never Invent Content
+
+**ABSOLUTE RULES - ZERO TOLERANCE:**
+
+❌ **NEVER create**:
+- Fake testimonials or quotes from users
+- Invented case studies or success stories
+- Fictional customer names, locations, or statistics
+- Made-up user experiences or reviews
+- Hypothetical "real-world examples" presented as fact
+
+✅ **ALWAYS ensure**:
+- All examples are clearly hypothetical ("Imagina que...", "Por ejemplo, si...")
+- All data is either real or explicitly marked as illustrative
+- All testimonials come from actual users (wait for user to provide)
+- All case studies are verified or omitted
+
+**Why this matters**: TuTaller is a new product not yet deployed at scale. Inventing success stories damages credibility and trust. It's better to have aspirational, hypothetical examples than fake "real" ones.
+
+**Acceptable alternatives**:
+- Hypothetical scenarios: "Imaginá un taller de Pilates con 40 alumnos..."
+- Projected benefits: "Con este sistema, podrías ahorrar hasta X horas..."
+- Generic examples: "Un administrador típicamente..."
+- Industry data: "Según estudios del sector fitness..." (only if citing real source)
+
+**If you need social proof**:
+1. Ask the user if they have real testimonials to share
+2. Use hypothetical framing: "Un taller similar podría..."
+3. Focus on the product features instead of invented success stories
+
+**This applies to ALL content types**: tutorials, blogs, tips, insights, social media, landing pages, etc.
+
 ## Content Standards
 
 ### Language and Tone
@@ -276,6 +310,8 @@ hugo --gc --minify && htmlproofer ./public
 ## Common Pitfalls to Avoid
 
 ❌ **Don't**:
+- **Invent testimonials, case studies, quotes, or success stories**
+- **Create fake user names, locations, or statistics**
 - Describe features that don't exist
 - Use outdated screenshots with old UI
 - Leave emails visible in screenshots
@@ -291,6 +327,8 @@ hugo --gc --minify && htmlproofer ./public
 - **Skip refreshing adminNotifications if Quill editor doesn't load**
 
 ✅ **Do**:
+- **Use hypothetical framing for examples ("Imaginá un taller...")**
+- **Ask user for real testimonials if needed**
 - Validate every feature before documenting
 - Capture fresh screenshots for each update
 - **Wait for all loading to complete before screenshot**

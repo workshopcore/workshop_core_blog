@@ -10,11 +10,11 @@ featured_image: "/images/tips/tips_02_ocupacion.png"
 
 # Maximizar la Ocupación de tus Clases
 
-La ocupación de tus clases es un indicador directo de la salud de tu negocio. Clases con buenos números significan más ingresos, mejor ambiente y una comunidad más activa. En este artículo te compartimos estrategias prácticas para mejorar la asistencia.
+La ocupación de tus clases es un indicador directo de la salud de tu negocio. Clases con buenos números significan más ingresos, mejor ambiente y una comunidad más activa. En este artículo te compartimos estrategias prácticas para mejorar la asistencia usando [TuTaller](https://tutaller.com.ar) como herramienta de gestión.
 
 ## 1. Analiza tus Métricas de Ocupación
 
-Antes de hacer cambios, necesitás entender qué está pasando. En TuTaller, andá a la sección **Métricas** y revisá:
+Antes de hacer cambios, necesitás entender qué está pasando. En [TuTaller](https://tutaller.com.ar), andá a la sección **Métricas** y revisá:
 
 * **Ocupación promedio por clase**: ¿Qué actividades están llenas y cuáles vacías?
 * **Ocupación por día de la semana**: ¿Los lunes funcionan peor que los miércoles?
@@ -130,6 +130,8 @@ Esto genera FOMO (fear of missing out) y motiva a otros a reservar antes.
 ✅ Celebrá las victorias  
 
 Aplicando estas estrategias de forma consistente, vas a ver mejoras en la ocupación en 2-4 semanas.
+
+**¿Querés implementar un sistema de gestión que te ayude con todo esto?** [Probá TuTaller gratis](https://tutaller.com.ar) y empezá a maximizar la ocupación de tus clases desde hoy.
 
 ---
 

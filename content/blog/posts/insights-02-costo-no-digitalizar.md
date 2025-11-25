@@ -83,7 +83,7 @@ Alternativamente, podrías:
 ## ROI: ¿Vale la Pena?
 
 **Inversión en digitalización:**  
-- TuTaller u similar: ~$0-15.000/mes (según plataforma)
+- [TuTaller](https://tutaller.com.ar): plataforma accesible para talleres
 - Tiempo de capacitación inicial: 3 horas
 - Costo de onboarding de alumnos: 50% se adapta en 1 semana, 90% en 1 mes
 
@@ -122,27 +122,16 @@ Con gestión digital, podés manejar 200-300 alumnos vos solo.
 **Manual**: No tenés idea.  
 **Digital**: Métricas en tiempo real.
 
-## Testimonios Reales
-
-**Laura, Studio de Pilates (40 alumnos):**
-> "Antes pasaba 3 horas al día gestionando reservas por WhatsApp. Ahora reviso la app 10 minutos a la mañana y listo. Recuperé mi vida."
-
-**Martín, Gimnasio CrossFit (120 alumnos):**
-> "El primer mes fue caótico enseñarle a la gente. El segundo mes ya era automático. Ahora ni me acuerdo cómo hacía antes."
-
-**Carolina, Yoga & Wellness (65 alumnos):**
-> "Mis alumnos me dicen que se sienten más profesional. Y yo cobro más caro que la competencia porque ofrezco mejor servicio."
-
 ## Los Miedos Más Comunes (Y Por Qué Son Infundados)
 
 ### "Mis alumnos son grandes, no usan apps"
 **Realidad**: Si usan WhatsApp, pueden usar tu app. Y los que no, sus hijos les enseñan.
 
 ### "Es muy caro"
-**Realidad**: Invertís $15.000/mes y recuperás $200.000+ en valor de tiempo.
+**Realidad**: [TuTaller](https://tutaller.com.ar) ofrece planes accesibles para talleres de cualquier tamaño, y recuperás la inversión en valor de tiempo desde el primer mes.
 
 ### "Es complicado"
-**Realidad**: Si aprendiste a usar Instagram, podés aprender TuTaller en 2 horas.
+**Realidad**: Si aprendiste a usar Instagram, podés aprender [TuTaller](https://tutaller.com.ar) en 2 horas.
 
 ### "Voy a perder el toque personal"
 **Realidad**: Al revés. Con más tiempo libre, podés interactuar mejor con cada alumno.
@@ -168,6 +157,8 @@ Con gestión digital, podés manejar 200-300 alumnos vos solo.
 El costo real de no digitalizar no es solo tiempo. Es oportunidad perdida, crecimiento limitado y alumnos frustrados que se van a la competencia.
 
 La pregunta no es "¿puedo permitirme digitalizar?" sino "¿puedo permitirme NO hacerlo?"
+
+**¿Querés ver exactamente cuánto tiempo y dinero podrías ahorrar?** [Explorá TuTaller](https://tutaller.com.ar) y calculá tu propio ROI.
 
 ---
 

@@ -38,7 +38,7 @@ Esto te da:
 
 ## 3. Usá la Función "Marcar Mes como Pagado"
 
-En TuTaller, desde **Usuarios y Créditos** > editar usuario, podés **marcar meses como pagados**.
+En [TuTaller](https://tutaller.com.ar), desde **Usuarios y Créditos** > editar usuario, podés **marcar meses como pagados**.
 
 **Beneficios:**
 * Registro histórico de pagos
@@ -96,7 +96,7 @@ Esto te da una vista rápida de quién está al día.
 
 Muchos talleres confunden "cargar créditos" con "cobrar cuota".
 
-**Sistema recomendado:**
+**Sistema recomendado con [TuTaller](https://tutaller.com.ar):**
 1. El alumno paga la cuota → Lo marcas como pagado en su perfil
 2. A principio de mes, cargás créditos a todos los que pagaron
 3. Los créditos son la moneda para reservar, no el registro del pago
@@ -149,6 +149,8 @@ Aunque no seas monotributista (o sí), ofrecer comprobante suma transparencia.
 ✅ Generá comprobantes  
 
 Gestionar pagos con orden y claridad reduce conflictos, mejora tu flujo de caja y te deja más tiempo para lo que realmente importa: dar buenas clases.
+
+**¿Querés simplificar tu gestión de pagos?** [Descubrí cómo TuTaller](https://tutaller.com.ar) automatiza recordatorios, registra pagos y te ayuda a mantener todo organizado.
 
 ---
 

@@ -111,19 +111,6 @@ Ocupación por horario, asistencia, pagos, retención.
 
 **Beneficio**: Decisiones basadas en data, no en intuición.
 
-## Casos de Éxito: Del Tradicional al Digital
-
-**Caso: Gimnasio Fuerza Vital (Rosario)**
-- 120 alumnos modelo tradicional, 60% retención a 6 meses
-- Implementaron TuTaller: sistema de créditos + reservas
-- Resultado a 12 meses: 180 alumnos, 78% retención
-
-**Caso: Studio Equilibrio (CABA)**
-- Empezaron 100% digital desde día 1
-- Crecieron de 30 a 110 alumnos en 8 meses
-- Retención promedio: 14 meses
-
-**Lección**: No es el tamaño del espacio, es el sistema.
 
 ## El Futuro: Híbrido e Inteligente
 
@@ -146,6 +133,8 @@ Los que se adelanten a esta tendencia van a liderar el mercado.
 🚀 El futuro es híbrido: presencial con tecnología  
 
 Si administrás un espacio fitness y todavía gestionás todo en papel y teléfono, estás compitiendo con una mano atada. La digitalización no es opcional.
+
+**¿Listo para dar el salto digital?** [Conocé TuTaller](https://tutaller.com.ar), la plataforma argentina diseñada específicamente para gimnasios y talleres como el tuyo.
 
 ---
 
