@@ -23,8 +23,8 @@ Hagamos los números.
 
 ### Tareas Administrativas Semanales (Manual)
 
-| Tarea | Tiempo Manual | Frecuencia | Total Semanal |
-|-------|---------------|------------|---------------|
+| Tarea | Tiempo Manual | Frecuencia de la operación | Total Semanal |
+|-------|---------------|------------------------|---------------|
 | Recibir llamados/WhatsApp para reservas | 2 min cada uno | 60 reservas | 120 min |
 | Anotar reservas en cuaderno/Excel | 1 min cada uno | 60 reservas | 60 min |
 | Confirmar  pagos y actualizar estado | 5 min cada uno | 20 pagos/mes | 25 min |
