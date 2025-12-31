@@ -1,0 +1,16 @@
+{
+  "name": "instagram-visual-generator",
+  "version": "1.0.0",
+  "description": "CLI tool for generating Instagram post images from JSON definitions",
+  "main": "cli.js",
+  "scripts": {
+    "cli": "node cli.js"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "commander": "^11.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

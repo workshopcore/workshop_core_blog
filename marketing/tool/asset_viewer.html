@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            font-family: sans-serif;
+            padding: 20px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 20px;
+        }
+
+        .item {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: center;
+        }
+
+        img {
+            max-width: 100px;
+            max-height: 100px;
+            display: block;
+            margin: 0 auto 10px;
+        }
+
+        .name {
+            font-size: 12px;
+            word-break: break-all;
+        }
+
+        h2 {
+            margin-top: 30px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Asset Viewer</h1>
+
+    <h2>Blobs</h2>
+    <div class="grid" id="blobs"></div>
+
+    <h2>Doodles (First 50)</h2>
+    <div class="grid" id="doodles"></div>
+
+    <script>
+        const blobs = [
+            'Vector.svg', 'Vector-1.svg', 'Vector-2.svg', 'Vector-3.svg', 'Vector-4.svg',
+            'Vector-5.svg', 'Vector-6.svg', 'Vector-7.svg', 'Vector-8.svg', 'Vector-9.svg',
+            'Vector-10.svg', 'Vector-11.svg', 'Vector-12.svg', 'Vector-13.svg'
+        ];
+
+        // Generating first 50 doodles
+        const doodles = ['Vector.svg'];
+        for (let i = 1; i <= 50; i++) doodles.push(`Vector-${i}.svg`);
+
+        const blobsContainer = document.getElementById('blobs');
+        blobs.forEach(file => {
+            const div = document.createElement('div');
+            div.className = 'item';
+            div.innerHTML = `<img src="../common_assets/blobs/${file}"><div class="name">${file}</div>`;
+            blobsContainer.appendChild(div);
+        });
+
+        const doodlesContainer = document.getElementById('doodles');
+        doodles.forEach(file => {
+            const div = document.createElement('div');
+            div.className = 'item';
+            div.innerHTML = `<img src="../common_assets/doodles/${file}"><div class="name">${file}</div>`;
+            doodlesContainer.appendChild(div);
+        });
+    </script>
+</body>
+
+</html>
