@@ -1,0 +1,188 @@
+{
+    "post": {
+        "name": "post_2",
+        "description": "Etiquetas: Todo claro desde el primer click"
+    },
+    "visuals": [
+        {
+            "id": "slide_1",
+            "width": 1080,
+            "height": 1350,
+            "backgroundColor": "#FFFFFF",
+            "elements": [
+                {
+                    "type": "blob",
+                    "path": "common_assets/blobs/Vector-1.svg",
+                    "x": -100,
+                    "y": -100,
+                    "width": 800,
+                    "height": 800,
+                    "fill": "#1ECBE1",
+                    "rotation": 45,
+                    "zIndex": 0
+                },
+                {
+                    "type": "image",
+                    "path": "posts/post_2/assets/background_table.png",
+                    "x": 140,
+                    "y": 150,
+                    "width": 800,
+                    "height": 700,
+                    "borderRadius": 48,
+                    "zIndex": 2
+                },
+                {
+                    "type": "blob",
+                    "path": "common_assets/doodles/tag.svg",
+                    "x": 750,
+                    "y": 120,
+                    "width": 250,
+                    "height": 250,
+                    "fill": "#000000",
+                    "rotation": 15,
+                    "zIndex": 5
+                },
+                {
+                    "type": "text",
+                    "content": "NUEVO",
+                    "x": 780,
+                    "y": 220,
+                    "fontSize": 40,
+                    "color": "#FFFFFF",
+                    "backgroundColor": "#FF6B6B",
+                    "padding": 15,
+                    "borderRadius": 15,
+                    "zIndex": 6
+                },
+                {
+                    "type": "text",
+                    "content": "Menos consultas\npor privado,\nmás alumnos\ninformados",
+                    "x": 100,
+                    "y": 900,
+                    "fontSize": 56,
+                    "fontFamily": "Comfortaa",
+                    "fontWeight": "bold",
+                    "color": "#FFFFFF",
+                    "backgroundColor": "#1E293B",
+                    "padding": 40,
+                    "borderRadius": 30,
+                    "lineHeight": 1.4,
+                    "zIndex": 10
+                }
+            ]
+        },
+        {
+            "id": "slide_2",
+            "width": 1080,
+            "height": 1350,
+            "backgroundColor": "#FFFFFF",
+            "elements": [
+                {
+                    "type": "blob",
+                    "path": "common_assets/blobs/Vector-2.svg",
+                    "x": -100,
+                    "y": -100,
+                    "width": 600,
+                    "height": 600,
+                    "fill": "#1E6AE1",
+                    "zIndex": 0
+                },
+                {
+                    "type": "image",
+                    "path": "posts/post_2/assets/screenshot_my_classes.png",
+                    "x": 140,
+                    "y": 300,
+                    "width": 800,
+                    "height": 800,
+                    "borderRadius": 48,
+                    "zIndex": 2
+                },
+                {
+                    "type": "blob",
+                    "path": "common_assets/doodles/arrow.svg",
+                    "x": 850,
+                    "y": 400,
+                    "width": 150,
+                    "height": 150,
+                    "rotation": 180,
+                    "fill": "#000000",
+                    "zIndex": 5
+                },
+                {
+                    "type": "blob",
+                    "path": "common_assets/doodles/arrow.svg",
+                    "x": 80,
+                    "y": 700,
+                    "width": 150,
+                    "height": 150,
+                    "rotation": 0,
+                    "fill": "#000000",
+                    "zIndex": 5
+                },
+                {
+                    "type": "text",
+                    "content": "Etiquetas de colores\npara todo tipo de detalle",
+                    "x": 100,
+                    "y": 100,
+                    "fontSize": 52,
+                    "color": "#FFFFFF",
+                    "backgroundColor": "#1E293B",
+                    "padding": 30,
+                    "borderRadius": 25,
+                    "zIndex": 10
+                }
+            ]
+        },
+        {
+            "id": "slide_3",
+            "width": 1080,
+            "height": 1350,
+            "backgroundColor": "#F4F6F8",
+            "elements": [
+                {
+                    "type": "blob",
+                    "path": "common_assets/blobs/Vector-3.svg",
+                    "x": 500,
+                    "y": 800,
+                    "width": 700,
+                    "height": 700,
+                    "fill": "#1ECBE1",
+                    "zIndex": 0
+                },
+                {
+                    "type": "image",
+                    "path": "posts/post_2/assets/screenshot_booking.png",
+                    "x": 140,
+                    "y": 200,
+                    "width": 800,
+                    "height": 800,
+                    "borderRadius": 48,
+                    "zIndex": 2
+                },
+                {
+                    "type": "blob",
+                    "path": "common_assets/doodles/thumbs-up.svg",
+                    "x": 800,
+                    "y": 900,
+                    "width": 250,
+                    "height": 250,
+                    "rotation": -20,
+                    "fill": "#000000",
+                    "zIndex": 5
+                },
+                {
+                    "type": "text",
+                    "content": "Información clara\nal reservar",
+                    "x": 200,
+                    "y": 1100,
+                    "fontSize": 56,
+                    "color": "#FFFFFF",
+                    "backgroundColor": "#1E293B",
+                    "padding": 30,
+                    "borderRadius": 25,
+                    "zIndex": 10
+                }
+            ]
+        }
+    ]
+}

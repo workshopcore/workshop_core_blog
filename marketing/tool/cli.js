@@ -25,7 +25,7 @@ const { program } = require('commander');
 const CONFIG = {
     defaultFont: 'Comfortaa',
     defaultFontWeight: 'bold',
-    defaultTextDecoration: 'underline',
+    defaultTextDecoration: 'none',
     defaultWidth: 1080,
     defaultHeight: 1080
 };
@@ -269,7 +269,8 @@ function renderText(ctx, element) {
         // Draw underline if specified
         if (textDecoration === 'underline') {
             const metrics = ctx.measureText(line);
-            const underlineY = textY + fontSize * 0.9;
+            // Increase offset to avoid crossing descenders (1.2 instead of 0.9)
+            const underlineY = textY + fontSize * 1.1; 
             const underlineThickness = Math.max(2, fontSize * 0.08);
             
             ctx.fillRect(textX, underlineY, metrics.width, underlineThickness);
