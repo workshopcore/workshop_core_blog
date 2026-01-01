@@ -60,6 +60,7 @@ To ensure consistency and quality, all posts must adhere to these strict rules.
 *   **Canvas**: 1080x1350 (Portrait).
 *   **Safe Bounds**: Text containers must **NOT** touch the borders of images or the canvas. Leave a **Safety Gap > 50px** from all edges.
 *   **Separation**: Avoid "kissing edges" (elements just touching). Either overlap significantly (>50px) or have clear separation (>50px).
+*   **Centering**: For easy centering, use a fixed `width` (e.g., `800`) and `textAlign: "center"`. This is more reliable than manually adjusting the `x` coordinate.
 
 ### 3. Styling Rules
 *   **No Underlines**: Do not use text underlines. The tool default is `none`.
@@ -99,6 +100,28 @@ Follow this process exactly for every new post request.
 1.  Present the **Walkthrough** with the generated images.
 2.  Instruct the user to replace the assets listed in the **Images to Replace** table.
 
+### Step 5: Adaptation
+Once the user has replaced the placeholder images:
+1.  **Analyze**: Check the dimensions (width/height) of the user's new images.
+2.  **Adapt**: Update `post.json` to fit the new aspect ratios.
+    *   Maintain "Framed" style (white space around).
+    *   Ensure **Safety Gaps** > 50px are preserved.
+    *   Adjust text/doodle positions if the image size changes significantly.
+
+### Step 6: Final Generation & Expert Evaluation
+1.  **Generate**: Run `make cli INPUT=posts/post_name/post.json`.
+2.  **Roleplay**: Act as an Expert Content Manager / UX Designer.
+3.  **Review**: rigorousl check all generated images for:
+    *   [ ] **Safe Bounds**: Is there >50px gap between text/images/edges?
+    *   [ ] **No Overflows**: Is all text visible?
+    *   [ ] **No Cut-offs**: Are all elements fully visible (not unintentionally cropped by edges)?
+    *   [ ] **Content Visibility**: Are critical parts of the image (text, buttons) **NOT** obscured by doodles?
+    *   [ ] **Style**: Are doodles black? Are images framed? No underlines?
+    *   [ ] **Aesthetics**: Does the composition look balanced? Is it too crowded or **too empty**?
+    *   [ ] **Spelling**: Is the copy correct?
+4.  **Refine**: If any check fails, adjust the JSON coordinates/sizes and regenerate.
+5.  **Finish**: Mark the task as done only when 100% compliant.
+
 ---
 
 ## JSON Schema Reference
@@ -121,6 +144,10 @@ Follow this process exactly for every new post request.
 #### Text (`type: "text"`)
 *   `content`: Text string (`\n` for newlines).
 *   `fontSize`, `backgroundColor` (`#1E293B`), `color` (`#FFFFFF`), `padding`, `borderRadius` (`30`).
+*   `width`: (Optional) Fixed width of the text box. If omitted, fits content.
+*   `height`: (Optional) Fixed height of the text box. If omitted, fits content.
+*   `textAlign`: Horizontal alignment: `"left"`, `"center"`, `"right"`. Default: `"left"`.
+*   `verticalAlign`: Vertical alignment: `"top"`, `"middle"`, `"bottom"`. Default: `"top"`.
 *   **Note**: `textDecoration` defaults to `"none"`.
 
 #### Blob (`type: "blob"`)

@@ -22,6 +22,7 @@ Presentar la nueva función de etiquetas/notas en los turnos. "Menos consultas p
 Sabemos que cada clase es un mundo y a veces necesitás aclarar detalles: ¿Quién da la clase? ¿Es presencial o virtual? ¿Tienen que traer algún material específico?
 
 Ahora podés dejarlo asentado directamente en el turno. Tus alumnos se sienten más seguros al reservar y vos te ahorrás contestar la misma pregunta diez veces por día.
+Conocé más en https://blog.tutaller.com.ar/blog/posts/tutorial-17-notas-turnos/
 
 ¡La organización está en los detalles! ✨
 

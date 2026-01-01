@@ -226,6 +226,8 @@ function renderText(ctx, element) {
     const padding = element.padding || 0;
     const borderRadius = element.borderRadius || 0;
     const lineHeight = element.lineHeight || 1.3;
+    const textAlign = element.textAlign || 'left';
+    const verticalAlign = element.verticalAlign || 'top';
     
     // Set font
     ctx.font = `${fontWeight} ${fontSize}px "${fontFamily}", sans-serif`;
@@ -237,14 +239,19 @@ function renderText(ctx, element) {
     
     // Measure text
     let maxWidth = 0;
+    const lineMetrics = [];
     for (const line of lines) {
         const metrics = ctx.measureText(line);
         maxWidth = Math.max(maxWidth, metrics.width);
+        lineMetrics.push(metrics);
     }
     
-    const textHeight = lines.length * lineHeightPx;
-    const boxWidth = maxWidth + padding * 2;
-    const boxHeight = textHeight + padding * 2;
+    const contentWidth = maxWidth;
+    const contentHeight = lines.length * lineHeightPx;
+    
+    // Determine box dimensions
+    const boxWidth = element.width || (contentWidth + padding * 2);
+    const boxHeight = element.height || (contentHeight + padding * 2);
     
     // Draw background if specified
     if (element.backgroundColor) {
@@ -260,24 +267,52 @@ function renderText(ctx, element) {
     
     // Draw text
     ctx.fillStyle = element.color || '#000000';
+    ctx.textAlign = textAlign;
     
-    let textY = element.y + padding;
-    for (const line of lines) {
-        const textX = element.x + padding;
+    // Calculate vertical starting position
+    let startY = element.y + padding;
+    if (verticalAlign === 'middle') {
+        startY = element.y + (boxHeight - contentHeight) / 2;
+    } else if (verticalAlign === 'bottom') {
+        startY = element.y + boxHeight - padding - contentHeight;
+    }
+    
+    let textY = startY;
+    for (let i = 0; i < lines.length; i++) {
+        const line = lines[i];
+        const metrics = lineMetrics[i];
+        
+        // Calculate horizontal position based on alignment
+        let textX = element.x + padding;
+        if (textAlign === 'center') {
+            textX = element.x + boxWidth / 2;
+        } else if (textAlign === 'right') {
+            textX = element.x + boxWidth - padding;
+        }
+        
         ctx.fillText(line, textX, textY);
         
         // Draw underline if specified
         if (textDecoration === 'underline') {
-            const metrics = ctx.measureText(line);
-            // Increase offset to avoid crossing descenders (1.2 instead of 0.9)
+            const metrics = lineMetrics[i];
             const underlineY = textY + fontSize * 1.1; 
             const underlineThickness = Math.max(2, fontSize * 0.08);
             
-            ctx.fillRect(textX, underlineY, metrics.width, underlineThickness);
+            let underlineX = textX;
+            if (textAlign === 'center') {
+                underlineX = textX - metrics.width / 2;
+            } else if (textAlign === 'right') {
+                underlineX = textX - metrics.width;
+            }
+            
+            ctx.fillRect(underlineX, underlineY, metrics.width, underlineThickness);
         }
         
         textY += lineHeightPx;
     }
+    
+    // Reset alignment for next elements
+    ctx.textAlign = 'left';
     
     log(`Rendered text: "${element.content.substring(0, 30)}..."`);
 }
