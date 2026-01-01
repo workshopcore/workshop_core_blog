@@ -17,5 +17,5 @@ Thumbs.db
 # Logs
 *.log
 
-# docs/
-# marketing/
+/docs/
+/marketing/
