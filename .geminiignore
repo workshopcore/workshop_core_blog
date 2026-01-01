@@ -1,0 +1,6 @@
+# Force Gemini to see the marketing directory even if git ignores it
+!marketing/
+!marketing/**
+
+!docs/
+!docs/**
