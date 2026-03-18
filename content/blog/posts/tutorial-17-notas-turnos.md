@@ -16,9 +16,10 @@ En este tutorial, aprenderás a utilizar la nueva funcionalidad de **Notas en Tu
 ## ¿Para qué sirve?
 
 Esta herramienta te permite:
-*   **Comunicar detalles específicos**: "Traer Mat", "Clase al aire libre", "Profesor Suplente".
-*   **Categorizar visualmente**: Usar colores para diferenciar niveles (Principiante/Avanzado) o tipos de actividad.
-*   **Mejorar la experiencia del alumno**: Los alumnos ven esta información antes de reservar.
+
+- **Comunicar detalles específicos**: "Traer Mat", "Clase al aire libre", "Profesor Suplente".
+- **Categorizar visualmente**: Usar colores para diferenciar niveles (Principiante/Avanzado) o tipos de actividad.
+- **Mejorar la experiencia del alumno**: Los alumnos ven esta información antes de reservar.
 
 ---
 
@@ -30,14 +31,13 @@ Si querés que una nota aparezca en **todos** los turnos de un horario específi
 2.  Navegá a **Clases** > **Recurrentes**.
 3.  Hacé clic en **Crear Clase** o editá una existente con el botón del lápiz.
 4.  En el formulario, buscá los nuevos campos:
-    *   **Nota**: Escribí el texto que querés mostrar (ej: "Nivel Avanzado").
-    *   **Color**: Seleccioná un color representativo.
+    - **Nota**: Escribí el texto que querés mostrar (ej: "Nivel Avanzado").
+    - **Color**: Seleccioná un color representativo.
 5.  Guardá los cambios.
 
 ![Formulario de Clase Recurrente](/images/tutoriales/tutorial_17_recurrent_form.png)
-*Los nuevos campos de Nota y Color en el formulario.*
+_Los nuevos campos de Nota y Color en el formulario._
 
-> [!NOTE]
 > Los cambios en clases recurrentes se aplicarán a los turnos que se generen a futuro. Los turnos ya generados no se modificarán automáticamente.
 
 ---
@@ -63,7 +63,7 @@ Para ver tus notas rápidamente:
 3.  Verás una etiqueta (badge) de color con la nota al lado de cada clase.
 
 ![Panel de Turnos Reservados](/images/tutoriales/tutorial_17_admin_view.png)
-*Vista rápida de las clases con sus etiquetas de color.*
+_Vista rápida de las clases con sus etiquetas de color._
 
 ---
 
@@ -72,11 +72,13 @@ Para ver tus notas rápidamente:
 Es importante que sepas cómo lo verán tus alumnos:
 
 ### Al Reservar
+
 En la pantalla de reserva, la tarjeta de la clase mostrará la nota y el color destacado.
 
 ![Vista de Reserva Alumno](/images/tutoriales/tutorial_17_student_booking.png)
 
 ### En "Mis Clases"
+
 Una vez que el alumno reserva, la nota permanecerá visible en su lista de clases confirmadas, sirviendo como recordatorio.
 
 ![Vista Mis Clases Alumno](/images/tutoriales/tutorial_17_student_my_classes.png)
