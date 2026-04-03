@@ -1,9 +1,9 @@
 ---
 title: "Tutorial 2: Configuración Inicial de tu Espacio"
-date: 2024-04-12T10:00:00-03:00
+date: 2026-04-03T12:00:00-03:00
 draft: false
-description: "Aprendé a personalizar tu espacio en TuTaller: definí el nombre, descripción, precios de suscripción y créditos incluidos para tus alumnos."
-tags: ["tutorial", "configuración", "precios", "admin"]
+description: "Aprendé a personalizar tu espacio en TuTaller: definí el nombre, descripción, precios de suscripción, políticas de cancelación y créditos incluidos para tus alumnos."
+tags: ["tutorial", "configuración", "precios", "admin", "cancelación"]
 categories: ["Tutoriales"]
 series: ["Primeros Pasos"]
 featured_image: "/images/tutoriales/tutorial_02_config.png"
@@ -21,25 +21,33 @@ Para acceder, hacé clic en **"Configuración"** en el menú lateral. Vas a ver 
 
 Lo primero que definís es la identidad de tu taller:
 
-*   **Nombre del espacio**: Es el nombre que verán tus alumnos en la aplicación y en los correos. Usá el nombre comercial de tu taller.
-*   **Descripción**: Un espacio para contar brevemente de qué se trata tu propuesta. Aparece en la vista de bienvenida para nuevos usuarios.
-*   **Alias**: Es el identificador único de tu espacio en la URL (por ejemplo, `tutaller.com.ar/app/alias`). Elegí algo corto y fácil de recordar.
+- **Nombre del espacio**: Es el nombre que verán tus alumnos en la aplicación y en los correos. Usá el nombre comercial de tu taller.
+- **Descripción**: Un espacio para contar brevemente de qué se trata tu propuesta. Aparece en la vista de bienvenida para nuevos usuarios.
+- **Alias**: Es el identificador único de tu espacio en la URL (por ejemplo, `tutaller.com.ar/app/alias`). Elegí algo corto y fácil de recordar.
 
 ## Modelo de Suscripción y Créditos
 
 Esta es la parte clave de tu negocio. TuTaller funciona con un modelo de suscripción mensual que asigna créditos a los alumnos.
 
-*   **Precio de suscripción mensual**: Acá ingresás el valor de la cuota mensual en pesos. Este es el monto que tus alumnos deberán abonar para mantener su suscripción activa.
-*   **Créditos incluidos en la suscripción**: Definí cuántos créditos recibe el alumno por ese pago mensual.
-    *   Por ejemplo, si tu cuota es de $20.000 y querés que el alumno pueda venir a 8 clases al mes, ponés "8" en este campo.
-    *   El sistema usará este valor para renovar automáticamente los créditos de los alumnos activos cada mes.
+- **Precio de suscripción mensual**: Acá ingresás el valor de la cuota mensual en pesos. Este es el monto que tus alumnos deberán abonar para mantener su suscripción activa.
+- **Créditos incluidos en la suscripción**: Definí cuántos créditos recibe el alumno por ese pago mensual.
+  - Por ejemplo, si tu cuota es de $20.000 y querés que el alumno pueda venir a 8 clases al mes, ponés "8" en este campo.
+  - El sistema usará este valor para renovar automáticamente los créditos de los alumnos activos cada mes.
+
+## Reglas de Cancelación y Créditos
+
+TuTaller te permite tener control total sobre las políticas de cancelación y recuperación de clases de tu espacio:
+
+- **Límite de créditos que pueden acumular**: Definí un tope estricto sobre cuántos créditos (por clases canceladas) puede tener acumulados un alumno. Si dejás este campo vacío, no habrá límite. Esto te sirve para incentivar una asistencia más regular.
+- **Validez de créditos recuperados**: Determiná cuántos días de vigencia tendrá un crédito generado por cancelación. Podés adaptarlo a tus ciclos mensuales o bimestrales.
+- **Horas previas para cancelar sin penalidad**: Especificá con cuánta anticipación mínima pueden los alumnos cancelar su clase sin perder el crédito. Si un alumno intenta cancelar más cerca del horario de la clase, el sistema le advertirá antes de confirmar que no recibirá crédito a favor.
 
 ## Personalización Visual
 
 También podés elegir los colores que representan a tu marca. Esto hace que la aplicación se sienta propia y profesional.
 
-*   **Color primario**: Se usa en los botones principales y encabezados.
-*   **Color secundario**: Para detalles y elementos de soporte.
+- **Color primario**: Se usa en los botones principales y encabezados.
+- **Color secundario**: Para detalles y elementos de soporte.
 
 Podés usar el selector de colores para encontrar el tono exacto o ingresar el código hexadecimal si ya tenés una paleta de marca definida.
 
@@ -53,4 +61,4 @@ Con tu espacio ya configurado y tu modelo de precios definido, estás listo para
 
 ---
 
-*Continuá con el [Tutorial 3: Crear Clases Recurrentes]({{< ref "tutorial-03-clases-recurrentes.md" >}}) para aprender a armar tu grilla de horarios semanal.*
+_Continuá con el [Tutorial 3: Crear Clases Recurrentes]({{< ref "tutorial-03-clases-recurrentes.md" >}}) para aprender a armar tu grilla de horarios semanal._
