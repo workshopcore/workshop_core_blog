@@ -34,9 +34,13 @@ Cuando un alumno paga su cuota, tu tarea es cargarle los créditos correspondien
 
 El sistema sumará esos créditos a su cuenta inmediatamente, permitiéndole volver a reservar clases.
 
-## Creando Nuevos Usuarios
+## Creando e Invitando Nuevos Usuarios
 
-Si bien los alumnos pueden registrarse por su cuenta (como veremos en el Tutorial 10), vos también podés crear usuarios manualmente desde el botón **"Nuevo usuario"**. Esto es útil si viene alguien presencialmente a tu taller y querés darle de alta en el momento.
+Desde la tarjeta superior **"Invitar y sumar alumnos"**, podés:
+* **Copiar el link de registro directo** para compartirlo en tus redes (Instagram, web) o enviarlo por WhatsApp.
+* Tocar **"Crear / Invitar alumno"** para dar de alta a una persona en el acto, asignarle sus créditos iniciales y compartirle un **Link Mágico** de acceso en 1 clic por WhatsApp (sin que tenga que registrarse manualmente).
+
+Para conocer en profundidad todas las opciones de invitación, revisá nuestra guía en el blog: [Invitar y Sumar Alumnos en Segundos: Links Directos y Acceso Mágico por WhatsApp]({{< ref "blog-05-invitar-sumar-alumnos.md" >}}).
 
 ## Próximos Pasos
 

@@ -19,15 +19,16 @@ Cuando tus alumnos ingresan a la URL de tu espacio (ej: `tutaller.com.ar/app/tue
 
 ![Pantalla de Login](/images/tutoriales/tutorial_10_registro.png)
 
-## Creando una Cuenta
+## Creando una Cuenta sin Fricción
 
-Si es la primera vez que ingresan, deben hacer clic en **"Registrarse"** (o "Crear cuenta"). El formulario les pedirá:
-1.  **Nombre completo**
-2.  **Email** (será su usuario)
-3.  **Contraseña**
-4.  **Teléfono** (opcional pero recomendado)
+Si es la primera vez que ingresan (o si entraron a través de tu link de invitación de WhatsApp), deben hacer clic en **"¿No tenés una cuenta? ¡Creá una!"**. El formulario es ultra-rápido y solo les pide:
+1.  **Nombre y Apellido**
+2.  **Email** (será su nombre de usuario)
+3.  **Contraseña** (con confirmación y botón para mostrar/ocultar)
 
-Una vez completado, el sistema crea su perfil automáticamente y ya pueden ingresar.
+No se requiere DNI ni fecha de nacimiento para el alta: el registro toma apenas 10 segundos y el alumno ingresa directamente a la app. Los datos complementarios pueden completarse de manera opcional en cualquier momento desde su [Perfil]({{< ref "tutorial-12-perfil-alumno.md" >}}).
+
+> **💡 Consejo para Administradores**: También podés dar de alta a tus alumnos vos mismo con sus créditos ya asignados y mandarles un **Link Mágico** de acceso en 1 clic. Leé más en nuestra entrada del blog: [Invitar y Sumar Alumnos en Segundos: Links Directos y Acceso Mágico por WhatsApp]({{< ref "blog-05-invitar-sumar-alumnos.md" >}}).
 
 <img src="/images/tutoriales/tutorial_10_signup.png" alt="Pantalla de Registro" width="300"/>
 
