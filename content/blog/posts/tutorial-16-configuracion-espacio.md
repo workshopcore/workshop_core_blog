@@ -95,6 +95,20 @@ Esta opción está directamente vinculada con la funcionalidad de "Marcar mes co
 
 Tenés un alumno que canceló una clase la semana pasada (perdió 1 crédito) y ahora quiere recuperarla. Si no tiene el mes marcado como pagado y esta opción está desactivada, no va a poder usar sus créditos para recuperar. Cuando te pague y lo marques como pagado, podrá recuperar sin problemas.
 
+### Congelar temporalmente las modificaciones de los alumnos (Modo Organización)
+
+**Toggle**: "🛠️ Congelar temporalmente las modificaciones de los alumnos (mientras organizás el mes)"
+
+Esta opción te permite abrir una **ventana de mantenimiento u organización** cada vez que habilitás un nuevo mes y necesitás hacer ajustes manuales (como borrar turnos en días feriados, mudar alumnos de comisión o cargar excepciones) sin que los alumnos modifiquen reservas en el medio.
+
+**Cuando está ACTIVADA**:
+* Los alumnos ven un **banner informativo en la parte superior** indicando que el equipo del taller está organizando los horarios del mes.
+* Se bloquean temporalmente todas las operaciones de modificación de los alumnos (reservar clases, cancelar turnos, suscribirse o darse de baja de comisiones, crear alertas y editar perfil).
+* Los administradores pueden seguir operando con normalidad sobre todo el calendario y los usuarios.
+
+**Cuando está DESACTIVADA** (estado habitual durante el mes):
+* El banner desaparece y los alumnos pueden gestionar sus reservas y cancelaciones según las reglas habituales de tu espacio.
+
 ## Combinaciones Comunes de Configuración
 
 ### Gimnasio Flexible (Más Común)
