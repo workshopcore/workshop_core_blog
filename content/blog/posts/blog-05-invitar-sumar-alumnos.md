@@ -67,7 +67,7 @@ Para que la invitación sea realmente efectiva, simplificamos radicalmente el pr
 
 ### El Link Mágico de un solo uso
 Inmediatamente, el sistema genera un **mensaje listo para compartir por WhatsApp** con:
-* Un **Link Mágico** (`?tt_otp=...`). Cuando el alumno toca este enlace en su celular, la app inicia su sesión en un solo clic, sin pedirle usuario ni contraseña.
+* Un **Link Mágico**. Cuando el alumno toca este enlace en su celular, la app inicia su sesión en un solo clic, sin pedirle usuario ni contraseña.
 * Sus credenciales de respaldo (email y clave temporal).
 * **Seguridad garantizada**: El link mágico funciona **una única vez**. Apenas el alumno ingresa a la aplicación, un aviso amigable lo guía para definir su propia contraseña definitiva para sus futuros ingresos.
 
